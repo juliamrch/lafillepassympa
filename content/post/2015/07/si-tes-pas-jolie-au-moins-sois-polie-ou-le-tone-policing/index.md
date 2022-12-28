@@ -20,13 +20,13 @@ Mon [article sur les pseudo-allié.es](https://lafillepassympa.wordpress.com/201
 
 Je souhaite revenir sur ces deux questions, celle du ton employé et celle de l'exclusion des neurotypiques. Concernant le ton agressif de l'article, que je n'ai aucun mal à assumer, je suis consciente qu'il est susceptible de bouleverser la représentation de l'autiste comme l'éternelle victime, dépendant des braves neurotypiques allié.es pour se défendre des discriminations. On retrouve souvent, dans l'imaginaire neurotypique, la figure de l'autiste timide, agressé.e par la vie, dans sa bulle (elle me fait bien rire celle-là), d'une gentillesse innée et incapable de la moindre méchanceté. Sortir de ce stéréotype, c'est risquer de se voir rappeler à l'ordre, par le biais d'injonctions à se conformer à ce que l'on attend de nous. Pour donner un exemple, quelqu'un m'a déjà accusée de me comporter "comme une neurotypique" pour me reprocher un comportement qu'il estimait être mesquin. Je n'ai aucun mal à assumer ma _bitch_ intérieure, mais ce qui m'interpelle, dans cette formulation, c'est l'injonction implicite qu'elle contient: si tu es méchante avec moi, tu n'es pas vraiment autiste. C'est le double-tranchant du pseudo-allié, qui en tant que dominant estime qu'il a le bon droit de valider mon identité, ou de l'invalider si je ne suis pas gentille avec lui, et par conséquent de me retirer son soutien.
 
-![Boring](images/brng.gif)
+![Boring](Sites/lfpsympa/content/post/2015/07/si-tes-pas-jolie-au-moins-sois-polie-ou-le-tone-policing/images/brng.gif)
 
 Pourtant, les autistes que je côtoie sont loin d'être des enfants de cœur. Enfants, adolescents ou adultes, je me retrouve souvent face à des caractères bien trempés, peu enclins au compromis et ne s'embarrassant pas de pincettes pour exprimer leur pensée. Cela ne vous rappelle pas l'un des symptômes du fonctionnement autistique? L'émoi que mon article a provoqué par son ton agressif est bien représentatif de l'emprise du système de valeurs imposés par les neurotypiques autour de la communication.  Mais mes agneaux, vous n'êtes pas au bout de vos peines: je suis peut-être celle qui est visible, mais la colère qui gronde dans une partie de la communauté neurAtypique s'amplifie et croyez-moi, je suis de loin l'une des plus mesurée dans mes propos.
 
 NOW PANIC
 
-![heartbeat](images/heart.gif)
+![heartbeat](Sites/lfpsympa/content/post/2015/07/si-tes-pas-jolie-au-moins-sois-polie-ou-le-tone-policing/images/heart.gif)
 
 Quand on me rappelle à l'ordre, que ce soit par la menace voilée de remettre en question ma condition autistique (et donc ma légitimité à m'exprimer sur le sujet) ou par l'injonction explicite à respecter les codes de la bienséance, c'est une violence qui est exercée et une manière de saper le fond de mes propos pour se concentrer sur la forme. Ce n'est qu'une énième preuve de la supériorité morale dont se drapent nos "allié.es foireux" pour décrédibiliser nos revendications.
 

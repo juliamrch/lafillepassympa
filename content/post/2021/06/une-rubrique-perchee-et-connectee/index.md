@@ -39,7 +39,7 @@ L'obsession normopathe d'une société est proportionnelle au taux d'inadaptés 
 
 Connaissez-vous le dicton japonais "Il faut taper sur la tête du clou qui dépasse" ?
 
-![Les évaporés du Japon, éditions Arènes, Léna Mauger et Stéphane Remael ](images/evapores-du-japon-.jpg)
+![Les évaporés du Japon, éditions Arènes, Léna Mauger et Stéphane Remael ](Sites/lfpsympa/content/post/2021/06/une-rubrique-perchee-et-connectee/images/evapores-du-japon-.jpg)
 
 C'est probablement de ce dicton que s'inspirent les écoles nippones de redressement des cadres. L'objectif : "remettre les employés _imparfaits_ dans le droit chemin de l'ordre et l'obéissance".
 
