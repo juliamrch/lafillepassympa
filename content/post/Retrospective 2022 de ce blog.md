@@ -31,7 +31,7 @@ Et c'est vrai : je le dis depuis longtemps, je n'ai rien de pertinent à dire au
 
 Cependant, je me suis rendu compte, au fil des années, que même si ces sujets m'emmerdaient, je ne pouvais m'empêcher d'en parler. Des années que j'étudie les neurotypiques, et je suis toujours aussi étonnée (parfois effrayée) par leur fonctionnement, ainsi par que celui de la société qui s'articule autour de celui-ci.
 
-Les premières heures de la pandémie l'ont montré : des gens préféraient risquer leur vie, ainsi que celles de leur proche, à rester seul chez eux. C'était quand même dingue, quand on y pense.
+Les premières heures de la pandémie l'ont montré : des gens préféraient risquer leur vie, ainsi que celles de leur proche, plutôt que de rester seuls chez eux. C'était quand même dingue, quand on y pense.
 
 Je passe ma vie, donc, à remarquer des comportements... insolites. Le temps et l'expérience n'y font rien. Il y a encore plein de choses que je ne comprends pas, et beaucoup de certitudes se sont également écroulées au fil des années.
 
