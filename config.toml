@@ -1,4 +1,4 @@
-baseURL = "lafillepassympa.com"
+baseURL = "https://lafillepassympa.com"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 
@@ -13,7 +13,9 @@ author = "Julia March"
 description = "Le quotidien d'une autiste dans la jungle sociale."
 profilePicture = "images/cat.png"
 displayMode = "dark"
-customCss = ["css/custom.css"]
+#customCss = ["css/custom.css"]
+#customScss = ["scss/custom.scss"]
+
 hidesidebar = false
 
 [[params.socialIcons]]
@@ -40,7 +42,6 @@ url = "mailto:contact@juliamarch.com"
 icon = "fa fa-cog fa-spin"
 title = "Twitter"
 url = "https://juliamarch.com"
-
 
 [menu]
 
