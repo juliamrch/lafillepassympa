@@ -5,7 +5,7 @@ DefaultContentLanguage = "en"
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"
 # theme as git submodule
-theme = "custom-anatole"
+theme = "anatole"
 
 [params]
 title = "La Fille Pas Sympa"

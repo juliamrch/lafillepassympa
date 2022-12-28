@@ -1,6 +1,4 @@
 [submodule "themes/anatole"]
 	path = themes/anatole
 	url = https://github.com/lxndrblz/anatole.git
-[submodule "themes/custom-anatole"]
-	path = themes/custom-anatole
-	url = https://github.com/juliamrch/lafillepassympa.git
+
