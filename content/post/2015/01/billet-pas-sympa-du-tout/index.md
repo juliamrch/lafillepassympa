@@ -1,0 +1,26 @@
+---
+title: "Bon ok, t'es autiste mais tu pourrais faire un effort"
+date: "2015-01-18"
+categories: 
+  - "ma-life"
+tags: 
+  - "autisme"
+  - "neurotypiques"
+  - "ras-le-bol"
+  - "societe"
+coverImage: "20.png"
+---
+
+Il y a eu des moments extrêmement chaotiques dans ma vie, à un tel point que parfois, en regardant en arrière, je me demande comment j'ai bien pu faire pour traverser tout cela sans finir en HP. Avec le recul il est évident que toutes mes difficultés étaient et continuent d'être liées au Syndrome d'Asperger et à la non-acceptation de celui-ci par mes congénères. L'avantage d'avoir un diagnostic est que premièrement on comprend que non, nos difficultés ne sont pas le lot de tout le monde, et que deuxièmement on est en capacité d'expliquer notre fonctionnement à notre entourage.
+
+C'est à la deuxième étape où ça coince, en ce qui me concerne. Si la personne en face de vous refuse de bousculer ses préjugés sur l'autisme, il n'y a aucune chance qu'elle prenne en compte vos spécificités et qu'elle l'intègre à la perception qu'elle se fait de vous. Cela apparaît sous la forme de "arrête donc de te chercher des excuses", bien que non prononcé de cette manière (gardons à l'esprit que les neurotypiques dégoulinent de tact et de phrases consensuelles censées nous faire passer pour des brutes sans cœur) (oui bon ok, c'est une blague) (et l'humour, tu connais?).
+
+En ce qui me concerne, ces difficultés se manifestent surtout dans le monde du travail. J'ai longtemps pensé naïvement que l'on valoriserait mes compétences et non mes habilités sociales, après tout ce sont les termes du contrat: je réalise des tâches et on me paie en échange, point. Nulle part est mentionné sur la fiche de poste "Vous devrait socialiser de manière normée et surtout passer pour quelqu'un d'ouvert et de sociable". Franchement je n'aurais pas postulé, ce n'est absolument pas dans mes cordes.
+
+Dans mon boulot actuel, j'ai prévenu la responsable que j'étais autiste. Légalement, je n'y suis absolument pas contrainte, mais je tenais à ce que l'on prenne en compte cette spécificité. Il s'agissait d'un poste dans une asso qui défend des valeurs avec lesquelles je suis complètement d'accord, il me semblait important d'être honnête. D'emblée cette responsable semblait être prête à prendre en compte le SA, même si je n'ai pas tardé à comprendre qu'elle était tellement surchargée et débordée (du moins, c'est ce qu'elle montre, comme presque tout le monde dans l'asso) qu'on aurait peu d'occasions d'échanger autour de notre travail en commun. Je me suis également vite rendu compte qu'elle ne connaissait rien à l'autisme et ne souhaitais pas en apprendre plus. Lors de notre dernière conversation, où l'on devait faire un point général, je m'attendais à ce qu'on parle du travail, des tâches qui me sont confiées et de quelle manière nous nous y prenons, ce qu'il faut améliorer, ce qui marche etc. A ma grande surprise, elle a commencé à me dire que certaines de mes attitudes "lui posaient question" (une façon polie de dire qu'un personne te fais régulièrement chier). En gros, je suis trop catégorique dans mes propos, je vexe les gens, certains sujets reviennent trop régulièrement dans mes conversations et je ne m'adapte pas assez aux autres. Sans blaaaague. Elle a précautionneusement effleuré le sujet de l'autisme sans dire clairement que ça me servait d'excuse pour ne pas être une fille sympa.
+
+La conversation fut interrompue et elle me dit que nous lui donnerions suite. J'avoue que j'étais assommée par ses reproches (qui étaient apparemment partagés par certaines personnes avec qui je travaille et qui n'ont jamais abordé le sujet). Juste avant de commencer cette conversation, je me sentais plutôt bien, j'avais le sentiment que je réalisais convenablement les tâches que l'on me confiait et commençait à me sentir pousser des ailes. Pour être honnête, je dois dire qu'à chaque fois que j'éprouve ce genre de sentiment de bien-être dans un lieu, une connasse se présente pour me sortir ce genre de propos. Un peu comme si elle m'avait repérée comme étant une inadaptée et se donnait la mission de me maintenir dans cette position. "Attention, va pas croire que tu peux te sentir complètement à l'aise ici, regarde ce qu'on pense de toi". Et bim, dans ta (ma) gueule.
+
+Je ne suis pas une pro de l'impro, il me faut plusieurs jours pour comprendre ce qui se cache derrière les paroles des gens, surtout celles dont les intentions ne sont pas explicites. J'ai finalement opté de ne pas poursuivre cette conversation, qui à mes yeux n'a pas lieu d'être. En effet, qui est cette normopathe pour me reprocher mes attitudes propres à l'autisme? Que fait-elle de la vraie raison de ma présence ici, qui est de travailler? Comment ose-t-elle se poser en supérieure hiérarchique, celle qui a raison et qui peut donner des leçons à la sociopathe que je suis? Elle s'est pris pour une psy comportementaliste, ou bien? Sans manquer bien sûr de lui signifier son ingérence.
+
+La question qui se pose à présent est: dois-je continuer jusqu'à la fin de mon contrat? J'ai terriblement envie de partir et en même temps j'en ai plus que marre de fuir face à la crétinerie congénitale des homo sapiens qui m'entourent. Sans compter qu'une petite partie de moi a tout de même bien envie de les faire chier jusqu'au bout.

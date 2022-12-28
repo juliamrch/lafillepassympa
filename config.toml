@@ -1,0 +1,134 @@
+baseURL = "lafillepassympa.com"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+
+# theme as hugo module
+#theme = "github.com/lxndrblz/anatole"
+# theme as git submodule
+theme = "anatole"
+
+[params]
+title = "La Fille Pas Sympa"
+author = "Julia March"
+description = "Le quotidien d'une autiste dans la jungle sociale."
+profilePicture = "images/cat.png"
+displayMode = "dark"
+customCss = ["css/custom.css"]
+hidesidebar = false
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/JuliaMarchh"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/juliamrch"
+
+[[params.socialIcons]]
+icon = "fab fa-gitlab"
+title = "GitLab"
+url = "https://gitlab.com/juliamrch"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:contact@juliamarch.com"
+
+[[params.socialIcons]]
+icon = "fa fa-cog fa-spin"
+title = "Twitter"
+url = "https://juliamarch.com"
+
+
+[menu]
+
+  [[menu.main]]
+  name = "Accueil"
+  identifier = "accueil"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Élucubrations"
+  weight = 200
+  identifier = "articles"
+  url = "/post/"
+
+  [[main]]
+  name = "Obra Magna"
+  weight = 300
+  identifier = "obra"
+
+  [[menu.main]]
+  name = "Mon livre"
+  weight = 310
+  identifier = "livre"
+  url = "/mon-livre/"
+  parent = "Obra Magna"
+
+  [[menu.main]]
+  name = "Presse"
+  weight = 320
+  identifier = "presse"
+  url = "/presse/"
+  parent = "Obra Magna"
+
+  [[main]]
+  name = "Bio"
+  weight = 400
+  identifier = "bio"
+
+  [[menu.main]]
+  name = "Actuelle"
+  weight = 410
+  identifier = "bio-current"
+  url = "/bio/"
+  parent = "Bio"
+
+  [[menu.main]]
+  name = "Vintage"
+  weight = 420
+  identifier = "vintage"
+  url = "/vintage/"
+  parent = "Bio"
+
+
+
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+# Enable Disqus
+#disqusShortname = ""
+
+
+# Syntax highlighting
+pygmentsUseClasses = true   
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+# Localized dates requires Hugo version 0.87.0
+localizedDates = false
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+        unsafe=true
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+[[related.indices]]
+  name = 'keywords'
+  weight = 100
+[[related.indices]]
+  name = 'tags'
+  weight = 80
