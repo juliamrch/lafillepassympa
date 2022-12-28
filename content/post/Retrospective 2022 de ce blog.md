@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Retrospective 2022 de ce blog"
 date: "2022-12-28"
 categories: 
   - "elucubrations"
