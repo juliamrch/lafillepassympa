@@ -8,6 +8,7 @@ tags:
   - "autisme"
   - "compensation"
 coverImage: "large.jpg"
+draft: "true"
 ---
 
 [![large](https://lafillepassympa.files.wordpress.com/2015/08/large.jpg?w=300)](https://lafillepassympa.files.wordpress.com/2015/08/large.jpg)

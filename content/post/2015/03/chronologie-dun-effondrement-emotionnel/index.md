@@ -7,6 +7,7 @@ tags:
   - "autisme"
   - "effondrement-emotionnel"
 coverImage: "16.png"
+draft: "true"
 ---
 
 Il y a des moments que les autistes connaissent très bien et redoutent plus que tout: les effondrements émotionnels.
