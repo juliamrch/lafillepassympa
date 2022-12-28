@@ -3,4 +3,4 @@
 	url = https://github.com/lxndrblz/anatole.git
 [submodule "custom-anatole"]
 	path = custom-anatole
-	url = https://github.com/juliamrch/custom-anatole
+	url = https://github.com/juliamrch/custom-anatole.git
