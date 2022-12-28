@@ -1,5 +1,5 @@
 ---
 heading: "Animi Concitationa Delirium"
-subheading: ""
+subheading: "..."
 handle: "JuliaMarch"
 ---
