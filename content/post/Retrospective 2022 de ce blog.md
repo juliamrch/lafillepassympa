@@ -10,11 +10,11 @@ tags:
 
 ## New Year, New Bitch
 
-Voici un post rapide pour inaugurer la nouvelle peau de ce blog. Pour cette dernière mis à jour, je ne me suis pas contentée de l'optimiser et de refaire le design : je l'ai carrément exporté sur une nouvelle techno.
+Voici un post rapide pour inaugurer la nouvelle peau de ce blog. Pour cette dernière mise à jour, je ne me suis pas contentée de l'optimiser et de refaire le design : je l'ai carrément exporté sur une nouvelle techno.
 
 Je raconte sur [mon portfolio en construction](https://juliamarch.cleverapps.io/note/premiers-pas/) comment je passe de WordPress à Hugo pour continuer à polluer le _web world wide_ de mes nombreux problèmes psychologiques. J'avais d'ailleurs recommandé ce framework (le truc qui permet de générer un site facilement, quoi) à Yo pour son blog [Putain d'Autiste](https://putaindautiste.me), mais je ne m'étais pas lancée pour migrer mes sites, car je suis une ~~feignasse~~ personne extrêmement occupée, voyez-vous. 
 
-Plus sérieusement, j'ai passé beaucoup d'heures à explorer différentes technologies et à apprivoiser de nouveaux concepts, mais surtout, à essayer d'être un peu plus carrée dans mes projets persos. Car c'est bien beau d'être sérieuse et efficace dans son domaine pro (ce qu'à mon grand damn, je ne peux m'empêcher d'être), si on ne peut même pas en profiter pour se faire plaisir en construisant des choses qui nous appartiennent.
+Plus sérieusement, j'ai passé beaucoup d'heures à explorer différentes technologies et à apprivoiser de nouveaux concepts, mais surtout, à essayer d'être un peu plus carrée sur mes projets persos. Car c'est bien beau d'être sérieuse et efficace dans son domaine pro (ce qu'à mon grand damn, je ne peux m'empêcher d'être), si on ne peut même pas en profiter pour se faire plaisir en construisant des choses qui nous appartiennent.
 
 
 ## Retrospective
@@ -23,15 +23,13 @@ Plus sérieusement, j'ai passé beaucoup d'heures à explorer différentes techn
 
 ### Ce n'était que le début
 
-En voyant se multiplier les prises de paroles sur l'autisme par les autistes, voir des initiatives auto-gérées se mettre en place, et constatant que des dizaines de personnes construisaient leur plateforme, voire se rémunéraient en délivrant leur sagesse, autistique, je me suis dit que je n'avais rien de vraiment pertinent à ajouter à tout ce qui était dit.
+En voyant se multiplier les prises de paroles sur l'autisme par les autistes, voir des initiatives auto-gérées se mettre en place, et constatant que des dizaines de personnes construisaient leur plateforme, voire se rémunéraient en délivrant leur sagesse autistique, je me suis dit que je n'avais rien de vraiment pertinent à ajouter à tout ce qui était dit.
 
 Et c'est vrai : je le dis depuis longtemps, je n'ai rien de pertinent à dire au sujet de l'autisme. Encore moins au sujet de l'autisme "au féminin". Ce sont des sujets qui m'emmerdent.
 
 #### Prise de conscience
 
-En
-
-Cependant, je me suis rendu compte, au fil des années, que même si ces sujets m'emmerdaient, je ne pouvais m'empêcher d'en parler. Des années que j'étudie les neurotypiques, et je suis toujours aussi étonnée (parfois effrayée) par leur fonctionnement, ainsi que celui de la société qui s'articule autour de celui-ci.
+Cependant, je me suis rendu compte, au fil des années, que même si ces sujets m'emmerdaient, je ne pouvais m'empêcher d'en parler. Des années que j'étudie les neurotypiques, et je suis toujours aussi étonnée (parfois effrayée) par leur fonctionnement, ainsi par que celui de la société qui s'articule autour de celui-ci.
 
 Les premières heures de la pandémie l'ont montré : des gens préféraient risquer leur vie, ainsi que celles de leur proche, à rester seul chez eux. C'était quand même dingue, quand on y pense.
 
@@ -69,4 +67,4 @@ Il y a deux ou trois sujets qui me travaillent, parfois, et maintenant que j'ai 
 - l'égocentrisme habituel
 - de la philosophie digne d'une copie du bac
 
-... la ligne éditoriale habituelle, quoi.
+...la ligne éditoriale habituelle, en somme.
