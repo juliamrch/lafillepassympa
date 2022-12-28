@@ -10,7 +10,7 @@ tags:
 
 ## New Year, New Bitch
 
-Voici un post rapide pour inaugurer la nouvelle peau de ce blog. Pour cette dernière mis à jour, je ne me suis pas contenté de l'optimiser et de refaire le design : je l'ai carrément exporté sur une nouvelle techno.
+Voici un post rapide pour inaugurer la nouvelle peau de ce blog. Pour cette dernière mis à jour, je ne me suis pas contentée de l'optimiser et de refaire le design : je l'ai carrément exporté sur une nouvelle techno.
 
 Je raconte sur [mon portfolio en construction](https://juliamarch.cleverapps.io/note/premiers-pas/) comment je passe de WordPress à Hugo pour continuer à polluer le _web world wide_ de mes nombreux problèmes psychologiques. J'avais d'ailleurs recommandé ce framework (le truc qui permet de générer un site facilement, quoi) à Yo pour son blog [Putain d'Autiste](https://putaindautiste.me), mais je ne m'étais pas lancée pour migrer mes sites, car je suis une ~~feignasse~~ personne extrêmement occupée, voyez-vous. 
 
