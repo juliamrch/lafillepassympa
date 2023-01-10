@@ -26,7 +26,7 @@ Lola Lafon écrit bien et je suis jalouse de la complexité avec laquelle elle p
 
 Cléo a treize ans, est passionnée de modern jazz et va se voir offrir une mystérieuse bourse par une Fondation inconnue. Est alors retracé le système de prédation -sexuel- dans lequel elle va être entraîné et auquel elle va participer à son tour, en entraînant d'autres camarades. C'est toute la complexité du silence autour des réseaux prédateurs, qui comptent sur la complicité des victimes et sur leurs remords concernant leur implication.
 
-![](Sites/lfpsympa/content/post/2021/06/neuranatomie-3/images/IMG_3688.jpg)
+![](✨%20Perso/🌐%20Sites/lfpsympa/content/post/2021/06/neuranatomie-3/images/IMG_3688.jpg)
 
 Et si vous pensez qu'il ne s'agit que d'une fiction, vous vous trompez.
 

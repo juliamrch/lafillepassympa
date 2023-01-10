@@ -8,7 +8,7 @@ coverImage: "8.png"
 
 Les lutins statisticiens de WordPress.com ont préparé le rapport annuel 2015 de ce blog.
 
-[![](Sites/lfpsympa/content/post/2016/01/2015-en-revision/images/2014-emailteaser.png)](http://lafillepassympa.wordpress.com/2015/annual-report/)
+[![](✨%20Perso/🌐%20Sites/lfpsympa/content/post/2016/01/2015-en-revision/images/2014-emailteaser.png)](http://lafillepassympa.wordpress.com/2015/annual-report/)
 
 En voici un extrait :
 

@@ -64,7 +64,7 @@ Attention, le prochain paragraphe risque de faire mal :
 
 Maintenant, imaginez un animal, que vous aimez par-dessus tout, en train de souffrir, ou qui meurt ou qui tout simplement disparaît sans laisser de traces. Ou imaginez-le seul parce que vous être vous-même décédé. Ça fait mal, non ? Pourtant, l’une de ces options va se produire, irrémédiablement. Non seulement vous devrez anticiper ces évènements, mais aussi vous y préparer matériellement. Adopter un animal implique une vie de bonheur, mais aussi de voir la sienne se finir avant la vôtre. C’est bien pour cela que je ne voulais pas en adopter d’autres, même si Jean-Rocco ne m’a pas laissé le choix. Puis, foutue pour foutue j’ai ajouté Jicébae à l’équation.  
 
-![](Sites/lfpsympa/content/post/2021/07/les-animaux-domestiques/images/fiche-medicale.jpg)
+![](✨%20Perso/🌐%20Sites/lfpsympa/content/post/2021/07/les-animaux-domestiques/images/fiche-medicale.jpg)
 
 Capture d'écran d'une partie de ma fiche médicale accessible en mode verrouillé sur mon téléphone, avec les conatcts reliés aux appels d'ugence.
 

@@ -25,7 +25,7 @@ Si vous vous reconnaissez dans ces mots, je ne peux rien pour vous. La bonne nou
 
 Je voue une passion démesurée aux histoires d'arnaques et de faux-semblant. Après tout, j'ai grandi dans une secte millénariste qui s'est entièrement construite sur des bobards et sur la réécriture de l'Histoire. Étant incapable de jouer un rôle pour tromper mon semblable -- un trait que je regrette amèrement car ma vie serait probablement plus simple--, j'ai toujours trouvé d'autres moyens ingénieux de troller mon prochain.
 
-![](Sites/lfpsympa/content/post/2021/09/neuratanomie-4/images/IMG_4606-662x1024.jpg)
+![](✨%20Perso/🌐%20Sites/lfpsympa/content/post/2021/09/neuratanomie-4/images/IMG_4606-662x1024.jpg)
 
 Extrait d'une conversation avec ma mère, au sujet d'un piège que je lui ai tendu quand j'avais 13 ans.
 
@@ -41,6 +41,6 @@ Je suis fébrile, je trépigne d'impatience, le CM de Les Jours va finir par me 
 
 ## La sérotonine
 
-[![](Sites/lfpsympa/content/post/2021/09/neuratanomie-4/images/Capture-decran-2021-09-07-a-10.39.42-1024x894.png)](https://daoartwork.com)
+[![](✨%20Perso/🌐%20Sites/lfpsympa/content/post/2021/09/neuratanomie-4/images/Capture-decran-2021-09-07-a-10.39.42-1024x894.png)](https://daoartwork.com)
 
 Cliquez sur l'image pour aller voir les illustrations de Dao Nguyen

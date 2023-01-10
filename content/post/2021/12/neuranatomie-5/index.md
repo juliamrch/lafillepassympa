@@ -47,6 +47,6 @@ Cependant, vous faire payer pour vous faire croire qu'entrer dans le moule peut 
 
 Aujourd’hui, c’est votre humble (mdr) serviteur qui la pourvoie. Testez la fonction recherche pour rigoler.
 
-[![](Sites/lfpsympa/content/post/2021/12/neuranatomie-5/images/Capture-décran-2021-12-14-à-09.39.46-1.png)](https://leplubo.chat)
+[![](✨%20Perso/🌐%20Sites/lfpsympa/content/post/2021/12/neuranatomie-5/images/Capture-décran-2021-12-14-à-09.39.46-1.png)](https://leplubo.chat)
 
 Cliquez pour accéder au site.
