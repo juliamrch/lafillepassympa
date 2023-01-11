@@ -12,7 +12,7 @@ coverImage: "angry-chick.jpeg"
 ![un poussin pas content](/images/angry-chick.jpeg)
 > J'ai trouvé que cette photo de piaf pas content me représentait bien, alors voilà.
 
-Mon [article sur les pseudo-allié.es](/post/2015/07/ces-allie-es-qui-nen-sont-pas) de la cause autistique semble avoir fait assez de bruit sur Internet depuis sa publication. On l'a qualifié de "véhément" sur des forums, de "provocateur" et "violent". Si certain.es autistes m'ont dit que cet article leur faisait du bien, d'autres ont été plus précautionneux au moment d'adhérer à mes propos, le jugeant "agressif" et  se demandant dans quelle mesure nous ne risquions pas de reproduire avec les neurotypiques l'exclusion que nous subissons.
+Mon [article sur les pseudo-allié.es](/post/allies-mythos/) de la cause autistique semble avoir fait assez de bruit sur Internet depuis sa publication. On l'a qualifié de "véhément" sur des forums, de "provocateur" et "violent". Si certain.es autistes m'ont dit que cet article leur faisait du bien, d'autres ont été plus précautionneux au moment d'adhérer à mes propos, le jugeant "agressif" et  se demandant dans quelle mesure nous ne risquions pas de reproduire avec les neurotypiques l'exclusion que nous subissons.
 
 Cette question est tout à fait légitime: nous connaissons la douleur d'être exclu.es alors pourquoi pratiquer l'exclusion envers des personnes bien-intentionnées, qui souhaitent nous aider?
 
@@ -68,7 +68,7 @@ Donc n'allez pas prendre cet article comme un encouragement à la haine sur les 
 
 Dans un autre article je parlerai de la mixité choisie comme outils d'émancipation, et de sa pertinence ou non dans la lutte pour la neurodiversité. [^3]
 
-Je prends pour le moment des vacances du militantisme virtuel [^4] pour prendre soin de moi, passer des vacances avec des gens que j'aime, glander, voyager, avoir des discussions passionnantes sur des terrasses à 3h du matin en fumant comme des pompiers, bitcher sur la dictature du barbecue et partir en colo avec d'horribles ados. [^5]
+Je prends pour le moment des vacances du militantisme virtuel [^4] pour prendre soin de moi, passer des vacances avec des gens que j'aime, glander, voyager, avoir des discussions passionnantes sur des terrasses à 3h du matin en fumant comme des pompiers, bitcher sur la dictature du barbecue et partir en colo avec d'horribles ados. add[^5]
 
 _Paix, amour et doigts dans le cul._
 
