@@ -26,12 +26,12 @@ url = "https://twitter.com/JuliaMarchh"
 [[params.socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/juliamrch"
+url = "https://github.com/juliamrch/lafillepassympa"
 
 [[params.socialIcons]]
 icon = "fab fa-gitlab"
 title = "GitLab"
-url = "https://gitlab.com/juliamrch"
+url = "https://gitlab.com/juliamrch/lafillepassympa"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
