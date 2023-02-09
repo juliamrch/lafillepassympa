@@ -14,13 +14,17 @@ Cela fait quelques années maintenant que je suis passée de la catégorie socia
 
 Comme beaucoup de gens de ma génération, j'ai remis en perspective la sacro-sainte valeur travail à laquelle la génération de nos parents nous a biberonnés. À certains moments, j'ai même complètement lâché l'affaire, convaincue que je n'arriverais jamais à survivre dans le monde du travail, auquel je me suis beaucoup trop frottée.
 
-Pourtant, j'y revenais toujours. Si une partie de mes actions a été tournée vers ce qu'on appelle niaisement "le bien commun", une grande partie a toujours été individualiste et dirigée vers un objectif : le transfuge de classe qui allait me sauver. Mais de cela, je n'en ai eu conscience que tardivement, en lisant [Retour à Reims de Didier Eribon](https://www.fayard.fr/sciences-humaines/retour-reims-9782213638348). 
+Pourtant, j'y revenais toujours.
 
 ## Le paradoxe
 
 Je ne pouvais pas descendre bien plus bas, en réalité. Les 800 € d'AAH que je touchais avant 2017 excédaient déjà le salaire à plein temps de ma mère quand elle faisait des ménages (un point commun que nous avons, Darmanin et moi).
 
-Mais au lieu d'en profiter pour souffler, j'ai repris mes études et suis repartie travailler comme une gueuse une fois mon diplôme en poche. Pendant ce processus, je me demandais parfois "À quoi bon ? Pourquoi je m'inflige ça ?". La réponse était simple : parce que j'aimais ce que je faisais, même si certains aspects étaient durs et épuisants. Mais aussi parce qu'une petite voix me disait que je n'avais pas vraiment le choix. Qu'autant tirer profit de quelque chose qui me plaisait pour améliorer ma position sociale, dans la mesure du possible.
+Mais au lieu d'en profiter pour souffler, j'ai repris mes études et suis repartie travailler comme une gueuse une fois mon diplôme en poche. Pendant ce processus, je me demandais parfois "À quoi bon ? Pourquoi je m'inflige ça ?". Surtout quand, autour de moi, les discours anti-travail fusaient, que je manifestais contre la Loi Travail en 2016 et que j'étais à peu près sûre d'échouer mon énième tentative d'insertion professionnelle.
+
+La réponse était pourtant simple : parce que j'aimais ce que je faisais, même si certains aspects étaient durs et épuisants. Mais aussi parce qu'une petite voix me disait que je n'avais pas vraiment le choix. Qu'autant tirer profit de quelque chose qui me plaisait pour améliorer ma position sociale, dans la mesure du possible.
+
+Si une partie de mes actions a été tournée vers ce qu'on appelle niaisement "le bien commun", une grande partie a toujours été individualiste et dirigée vers un objectif : le transfuge de classe qui allait me sauver. Mais de cela, je n'en ai eu conscience que tardivement, en lisant [Retour à Reims de Didier Eribon](https://www.fayard.fr/sciences-humaines/retour-reims-9782213638348). Je partageais son désir d'ailleurs, d'un autre horizon social, son désir de fuite, aussi.
 
 ## Le Graal
 
