@@ -40,7 +40,7 @@ La différence est que maintenant, je n'ai aucun mal à m'extraire de ces situat
 
 ## Élégie d'une parvenue
 
-La thune, c'est ce qui te permet de quitter un quartier devenu invivable à cause des tapages nocturnes, ou de ton voisin avec le Syndrome de Diogènes, ou celui qui menance de te casser la gueule car il a un grain, et ce sans avoir besoin d'angoisser sur le fait que ton dossier ne passera nulle part ailleurs.
+La thune, c'est ce qui te permet de quitter un quartier devenu invivable à cause des tapages nocturnes, ou de ton voisin avec le Syndrome de Diogènes, ou celui qui menace de te casser la gueule car il a un grain (et aussi, constate l'absence d'un partenaire masculin dans ton foyer), et ce sans avoir besoin d'angoisser sur le fait que ton dossier ne passera nulle part ailleurs. _Here for the good time, not the long time_.
 
 Ou ce qui te permet de quitter un travail qui apporte plus de mal que de bien dans ton quotidien, en finançant une formation ou en misant sur tes économies, le temps de voir venir.
 
