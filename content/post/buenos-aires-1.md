@@ -60,7 +60,7 @@ J'ai donc béni l'enfant de mon autisme lors d'une cérémonie un peu païenne a
 
 ## La parentalité moderne
 
-Ce que je trouve bien, avec les gens de mon âge, c'est que la parentalité a l'air d'être un plus dans leurs vies, et pas un changement radical de paradigme. Mes amis sortent boire des bières le soir et manger des glaces avec la petite, comme s'il s'agissait d'un accessoire de mode un peu onéreux. L'enfant intègre leur mode de vie et, même s'il y a évidemment des changements, ils ne se privent pas de socialiser et de continuer à vivre comme ils aiment le faire parce qu'elle a eu l'idée de naïtre.
+Ce que je trouve bien, avec les gens de mon âge, c'est que la parentalité a l'air d'être un plus dans leurs vies, et pas un changement radical de paradigme. Mes amis sortent boire des bières le soir et manger des glaces avec la petite, comme s'il s'agissait d'un accessoire de mode un peu onéreux. L'enfant intègre leur mode de vie et, même s'il y a évidemment des changements, ils ne se privent pas de socialiser et de continuer à vivre comme ils aiment le faire parce qu'elle a eu l'idée de naître.
 
 Bien sûr, il y a des priorités qui changent. Certains sujets n'ont pas la même importance qu'avant. C'est assez fascinant de voir ses amis évoluer, fonder leur famille, te parler des nouveaux sujets qui les préoccupent, et les voir devenir des gros darons à leur façon. Je trouve ça drôle.
 
