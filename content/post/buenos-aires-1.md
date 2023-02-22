@@ -50,7 +50,7 @@ AdC souhaite caser un maximum de visites et d'activités en un temps record, alo
 
 Je discute donc de cela avec AdC, d'à quel point il est inutile de se pourrir la vie face aux imprévus, car ils font partie de la vie et du voyage. Mais il me semble que, si j'ai, de mon côté, intégré la probabilité d'évènements aléatoires dans mon algorithme interne, et parvient même à m'amuser à les résoudre comme des énigmes, ce ne soit finalement pas quelque chose de courant.
 
-Ce que je n'arrive pas à intégegrer dans mon algorithme interne, cependant, ce sont les réactions émotionnelles d'autrui. Je ne m'y ferai probablement jamais malgré l'insistance de ma psy à accepter les êtres humains dans, justement, toute leur humanité (dégoûtante).
+Ce que je n'arrive pas à intégrer dans mon algorithme interne, cependant, ce sont les réactions émotionnelles d'autrui. Je ne m'y ferai probablement jamais malgré l'insistance de ma psy à accepter les êtres humains dans, justement, toute leur humanité (dégoûtante).
 
 ## Bénir l'enfant
 
