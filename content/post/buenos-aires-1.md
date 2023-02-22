@@ -28,7 +28,7 @@ Quoi qu'il en soit, des commerces acceptent les paiements en crypto directement 
 
 ### Mood : Économie parallèle
 
-Ma pote, que nous appelerons AdC (pour Acolyte de Voyage), et moi-même avons échangé des euros contre des pesos au taux non officiel, dans une _cueva_, qui veut dire "grotte" en français, mais se traduit plutôt par "cave". Ce n'est pas vraiment légal, mais c'est toléré. On peut obtenir un taux de change plus intéressant et c'est ce que fait la plutpart des Argentins payés en euros ou en dollars.
+Ma pote, que nous appelerons AdC (pour Acolyte de Voyage), et moi-même avons échangé des euros contre des pesos au taux non officiel, dans une _cueva_, qui veut dire "grotte" en français, mais se traduit plutôt par "cave". Ce n'est pas vraiment légal, mais c'est toléré. On peut obtenir un taux de change plus intéressant et c'est ce que fait la plupart des Argentins payés en euros ou en dollars.
 
 Ce n'est pas la peine de débarquer la bouche en coeur et de demander autour de vous où vous pouvez trouver une _cueva_, car vous allez probablement finir par vous faire braquer par un enfant de 10 ans dès que vous l'ouvrirez à ce sujet. Si vous y restez assez longtemps, ou que vous avez déjà des amis sur place, vous finirez probablement par en trouver une.
 
