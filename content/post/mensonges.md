@@ -7,6 +7,7 @@ Categories: []
 DisableComments: true
 draft: true
 ---
+#ENLEVER DU GITIGNORE
 
 Elle mentait comme elle respirait et je le voyais. Un mot sur deux prononcé par cette personne était faux, et pourtant, je l'ai écoutée sans sciller. Cette scène, vieille de plusieurs mois, allait se répéter dans d'autres contextes, avec d'autres gens, qui ne se rencontreraient jamais entre eux mais partageant ce dénominateur commun : me mentir, lors d'un échange parfois banal, parfois plus engageant.
 
