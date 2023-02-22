@@ -40,7 +40,7 @@ D'habitude, je voyage seule ou avec ma meuf. Je ne suis pas fan des activités d
 
 AdC et moi sommes amies de longue date. On s'héberge mutuellement, on a déjà passé de courts séjours ensemble, c'est ma go sûre, l'une des meilleures amies dans mon cercle. Mais AdC n'a pas l'habitude de m'avoir dans les pattes sur une longue durée, de s'orgnaiser avec moi, et nous avons des façons d'explorer le monde et de vivre au quotidien assez différentes.
 
-AdC est aussi quelqu'un qui manifeste de façon appuyée un éventail assez large d'émotions. Vous savez que je ne suis pas fan des émmotions en général. Je pars du principe que mon prochain doit serrer les dents et ne pas m'importuner avec ses émotions très personnelles. C'est comme ça, c'est la dictature.
+AdC est aussi quelqu'un qui manifeste de façon appuyée un éventail assez large d'émotions. Vous savez que je ne suis pas fan des émotions en général. Je pars du principe que mon prochain doit serrer les dents et ne pas m'importuner avec ses émotions très personnelles. C'est comme ça, c'est la dictature.
 
 Donc AdC et moi ressemblons complètement à cette paire :
 
