@@ -28,7 +28,7 @@ Quoi qu'il en soit, des commerces acceptent les paiements en crypto directement 
 
 ### Mood : Économie parallèle
 
-Ma pote, que nous appelerons AdC (pour Acolyte de Voyage), et moi-même avons échangé des euros contre des pesos au taux non officiel, dans une _cueva_, qui veut dire "grotte" en français, mais se traduit plutôt par "cave". Ce n'est pas vraiment légal, mais c'est toléré. On peut obtenir un taux de change plus intéressant et c'est ce que fait la plupart des Argentins payés en euros ou en dollars.
+Ma pote, que nous appelerons AdV (pour Acolyte de Voyage), et moi-même avons échangé des euros contre des pesos au taux non officiel, dans une _cueva_, qui veut dire "grotte" en français, mais se traduit plutôt par "cave". Ce n'est pas vraiment légal, mais c'est toléré. On peut obtenir un taux de change plus intéressant et c'est ce que fait la plupart des Argentins payés en euros ou en dollars.
 
 Ce n'est pas la peine de débarquer la bouche en coeur et de demander autour de vous où vous pouvez trouver une _cueva_, car vous allez probablement finir par vous faire braquer par un enfant de 10 ans dès que vous l'ouvrirez à ce sujet. Si vous y restez assez longtemps, ou que vous avez déjà des amis sur place, vous finirez probablement par en trouver une.
 
@@ -36,19 +36,19 @@ Comme je connais des gens sur place, j'ai directement plongé dans l'économie p
 
 ### Voyager à deux
 
-D'habitude, je voyage seule ou avec ma meuf. Je ne suis pas fan des activités de groupe, de devoir prendre en compte le rythme de quelqu'un d'autre, et j'apprécie la solitude. Là, je suis avec AdC. Et c'est toute une histoire.
+D'habitude, je voyage seule ou avec ma meuf. Je ne suis pas fan des activités de groupe, de devoir prendre en compte le rythme de quelqu'un d'autre, et j'apprécie la solitude. Là, je suis avec AdV. Et c'est toute une histoire.
 
-AdC et moi sommes amies de longue date. On s'héberge mutuellement, on a déjà passé de courts séjours ensemble, c'est ma go sûre, l'une des meilleures amies dans mon cercle. Mais AdC n'a pas l'habitude de m'avoir dans les pattes sur une longue durée, de s'orgnaiser avec moi, et nous avons des façons d'explorer le monde et de vivre au quotidien assez différentes.
+AdV et moi sommes amies de longue date. On s'héberge mutuellement, on a déjà passé de courts séjours ensemble, c'est ma go sûre, l'une des meilleures amies dans mon cercle. Mais AdV n'a pas l'habitude de m'avoir dans les pattes sur une longue durée, de s'organiser avec moi, et nous avons des façons d'explorer le monde et de vivre au quotidien assez différentes.
 
-AdC est aussi quelqu'un qui manifeste de façon appuyée un éventail assez large d'émotions. Vous savez que je ne suis pas fan des émotions en général. Je pars du principe que mon prochain doit serrer les dents et ne pas m'importuner avec ses émotions très personnelles. C'est comme ça, c'est la dictature.
+AdV est aussi quelqu'un qui manifeste de façon appuyée un éventail assez large d'émotions. Vous savez que je ne suis pas fan des émotions en général. Je pars du principe que mon prochain doit serrer les dents et ne pas m'importuner avec ses émotions très personnelles. C'est comme ça, c'est la dictature.
 
-Donc AdC et moi ressemblons complètement à cette paire :
+Donc AdV et moi ressemblons complètement à cette paire :
 
 ![Wednesday Addams et Enid, de la série Netflix](/images/jenna-ortega-as-wednesday-addams-emma-myers-as-enid-sinclair-in-episode-102-wednesday.jpg)
 
-AdC souhaite caser un maximum de visites et d'activités en un temps record, alors que je suis une âme de poète contemplative qui peut rester deux heures à écrire dans un café, ou à regarder des canards. Face aux imprévus assez inhérents à n'importe quel voyage, elle manifeste des émotions, tandis que je suis déjà en train de soupeser plusieurs solutions susceptibles de résoudre notre problème du moment. Au moment où elle finit d'émotionner et va commencer à envisager une solution, j'ai déjà trouvé.
+AdV souhaite caser un maximum de visites et d'activités en un temps record, alors que je suis une âme de poète contemplative qui peut rester deux heures à écrire dans un café, ou à regarder des canards. Face aux imprévus assez inhérents à n'importe quel voyage, elle manifeste des émotions, tandis que je suis déjà en train de soupeser plusieurs solutions susceptibles de résoudre notre problème du moment. Au moment où elle finit d'émotionner et va commencer à envisager une solution, j'ai déjà trouvé.
 
-Je discute donc de cela avec AdC, d'à quel point il est inutile de se pourrir la vie face aux imprévus, car ils font partie de la vie et du voyage. Mais il me semble que, si j'ai, de mon côté, intégré la probabilité d'évènements aléatoires dans mon algorithme interne, et parvient même à m'amuser à les résoudre comme des énigmes, ce ne soit finalement pas quelque chose de courant.
+Je discute donc de cela avec AdV, d'à quel point il est inutile de se pourrir la vie face aux imprévus, car ils font partie de la vie et du voyage. Mais il me semble que, si j'ai, de mon côté, intégré la probabilité d'évènements aléatoires dans mon algorithme interne, et parvient même à m'amuser à les résoudre comme des énigmes, ce ne soit finalement pas quelque chose de courant.
 
 Ce que je n'arrive pas à intégrer dans mon algorithme interne, cependant, ce sont les réactions émotionnelles d'autrui. Je ne m'y ferai probablement jamais malgré l'insistance de ma psy à accepter les êtres humains dans, justement, toute leur humanité (dégoûtante).
 
@@ -68,6 +68,6 @@ Il est vrai que dans la culture hispanique on est moins axés sur la famille nuc
 
 ## La suite du voyage
 
-D'ici quelques jours, nous nous rendrons dans la _Tierra del Fuego_ avec AdC, mais pour le moment, on chill à Buenos Aires. AdC est partie gambader partout après que je lui ai dit que j'en avais ma claque de socialiser et voulais rester seule. Je ne sais pas si ce journal de bord aura une deuxième partie, peut-être que je n'aurai rien d'intéressant à raconter, ou pas le temps.
+D'ici quelques jours, nous nous rendrons dans la _Tierra del Fuego_ avec AdV, mais pour le moment, on chill à Buenos Aires. AdV est partie gambader partout après que je lui ai dit que j'en avais ma claque de socialiser et voulais rester seule. Je ne sais pas si ce journal de bord aura une deuxième partie, peut-être que je n'aurai rien d'intéressant à raconter, ou pas le temps.
 
 Pour l'instant, c'est la fin de cette première et peut-être unique partie, voilà, démerdez-vous avec cette conclusion brutale, bisous bisous.
