@@ -27,7 +27,7 @@ Il y a plein de choses à faire en Patagonie et autour du lac. Mes activités pr
 
 La base. Si vous ne vous êtes pas fait une entorse en crapahutant dans les Andes, avez-vous vraiment vécu ?
 
-Je mythonne un peu. L'entorse, je me l'étais faite bien avant, plus précisément chez l'un des opticiens les plus chics de Nantes, dont j'ai gratifié la moquette d'une chute spectaculaire (la baguette de pain que je tenais a roulé et répandu sa farine partout tandis que des clients poussaient des exclamations un peu effarées (mais pas trop)(on est chics, après tout).
+Je mythonne un peu. L'entorse, je me l'étais faite bien avant, plus précisément chez l'un des opticiens les plus chics de Nantes, dont j'ai gratifié la moquette d'une chute spectaculaire. La baguette de pain que je tenais a roulé et répandu sa farine partout tandis que des clients poussaient des exclamations un peu effarées (mais pas trop)(on est chics, après tout).
 
 Je passe ma vie à me vautrer. Je suis maladroite, et toute la rééducation motrice du monde n'y peut rien. _Long story short_, je me fais une légère entorse à Nantes, j'arrête le sport pendant un mois, histoire que la cheville récupère, puis je continue ma vie.
 
