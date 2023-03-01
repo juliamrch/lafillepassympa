@@ -15,7 +15,8 @@ Cette fois, je n'écris pas depuis la capitale de l'Argentine, mais au coeur de 
 
 Je n'ai jamais été aussi près de l'Antarctique. Si je dézoom mon appli Plans, voilà ce que je vois :
 
-![géolocalisation au sud de l'Amérique sur un globe terrestre qui montre l'Antartique juste en face](images/mapamundi.png)
+![localisation au sud de l'Amérique sur un globe terrestre qui montre l'Antartique juste en face](/images/mapamundi.jpg)
+
 
 J'aimerais bien continuer plus au Sud, passer par Ushuaïa pousser jusqu'à l'Antarctique. Mais bon, je suis venue en Argentine pour un baptême et je fais une brève escapade, l'idée n'est pas de s'improviser en Capitaine Cousteau.
 
@@ -44,3 +45,6 @@ Ce n'est qu'en me savonnant les jambes sous la douche que je me suis rendu compt
 La pharmacienne m'a cependant confirmé qu'il s'agissait des effets d'une entorse, mais elle s'étonnait de me voir marcher, et que je ne ressente aucune douleur. Cela m'a rappelé un certains nombre de fois où je me suis fait engueulé aux urgences pour des problèmes de santé graves, que j'avais laissé traîner, car je ne ressentais qu'une "gêne". La seule raison pour laquelle j'ai fini aux urgences, c'est parce que quelqu'un m'a dit "meuf, c'est ultra grave, tu dois absolument consulter", sinon, je serais probablement morte.
 
 Sachant que je ne peux me fier à mon échelle de la douleur pour évaluer la gravité d'une blessure, j'y suis allée mollo. Sans pouvoir m'empêcher de penser en arrière-plan, toutefois, "Au pire, si je perds un pied, il m'en restera toujours un autre".
+
+
+[/images/mapamundi.jpg]: /images/mapamundi.jpg
