@@ -32,7 +32,7 @@ Je mythonne un peu. L'entorse, je me l'étais faite bien avant, plus préciséme
 
 Je passe ma vie à me vautrer. Je suis maladroite, et toute la rééducation motrice du monde n'y peut rien. _Long story short_, je me fais une légère entorse à Nantes, j'arrête le sport pendant un mois, histoire que la cheville récupère, puis je continue ma vie.
 
-### _It follows
+### _It follows_
 
 Sauf que dans cette région, tout est en côte. Même les villes sont en pentes. On passe sa vie à grimper partout. Alors, si en plus on ajoute des balades, des randonnées et autres activités, de vieux fantômes corporels reviennent vous hanter.
 
