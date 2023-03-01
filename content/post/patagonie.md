@@ -8,7 +8,7 @@ tags:
   - "Patagonie"
   - "hyposensibilité"
 DisableComments: true
-draft: true
+draft: false
 ---
 
 Cette fois, je n'écris pas depuis la capitale de l'Argentine, mais au coeur de la Patagonie, plus précisément depuis les bordures du lac Nahuel Huapi, pas loin de San Carlos de Bariloche.
@@ -44,4 +44,3 @@ Ce n'est qu'en me savonnant les jambes sous la douche que je me suis rendu compt
 La pharmacienne m'a cependant confirmé qu'il s'agissait des effets d'une entorse, mais elle s'étonnait de me voir marcher, et que je ne ressente aucune douleur. Cela m'a rappelé un certains nombre de fois où je me suis fait engueulé aux urgences pour des problèmes de santé graves, que j'avais laissé traîner, car je ne ressentais qu'une "gêne". La seule raison pour laquelle j'ai fini aux urgences, c'est parce que quelqu'un m'a dit "meuf, c'est ultra grave, tu dois absolument consulter", sinon, je serais probablement morte.
 
 Sachant que je ne peux me fier à mon échelle de la douleur pour évaluer la gravité d'une blessure, j'y suis allée mollo. Sans pouvoir m'empêcher de penser en arrière-plan, toutefois, "Au pire, si je perds un pied, il m'en restera toujours un autre".
-
