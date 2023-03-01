@@ -17,8 +17,7 @@ Je n'ai jamais été aussi près de l'Antarctique. Si je dézoom mon appli Plans
 
 ![localisation au sud de l'Amérique sur un globe terrestre qui montre l'Antartique juste en face](/images/mapamundi.jpg)
 
-
-J'aimerais bien continuer plus au Sud, passer par Ushuaïa pousser jusqu'à l'Antarctique. Mais bon, je suis venue en Argentine pour un baptême et je fais une brève escapade, l'idée n'est pas de s'improviser en Capitaine Cousteau.
+J'aimerais bien continuer plus au Sud, passer par Ushuaïa puis pousser jusqu'à l'Antarctique. Mais bon, je suis venue en Argentine pour un baptême et je fais une brève escapade, l'idée n'est pas de s'improviser en Capitaine Cousteau.
 
 ## Que faire en Patagonie
 
