@@ -68,7 +68,7 @@ Tout un programme.
 
 
 [^1]: Je ne sais pas comment font les Argentins pour boire cette merde.
-[^2]: "À mon cours, on vient en ayant déjà pleuré", une façon de dire au gens que ce n'est ni l'endroit ni le moment et que tu t'en bas les couilles.
+[^2]: "À mon cours, on vient en ayant déjà pleuré", une façon de dire aux gens que ce n'est ni l'endroit ni le moment et que tu t'en bas les couilles.
 
 
 
