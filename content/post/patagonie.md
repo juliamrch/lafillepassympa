@@ -1,7 +1,7 @@
 ---
 title: "Journal porteño #2"
 date: 2023-02-28T22:10:44-03:00
-Description: "Entorse"
+Description: "Entorse et autres drames"
 categories: 
   - "voyage"
 tags: 
@@ -35,7 +35,7 @@ Je passe ma vie à me vautrer. Je suis maladroite, et toute la rééducation mot
 
 Sauf que dans cette région, tout est en côte. Même les villes sont en pentes. On passe sa vie à grimper partout. Alors, si en plus on ajoute des balades, des randonnées et autres activités, de vieux fantômes corporels reviennent vous hanter.
 
-Bien sûr, la plupart des gens sentiraient au moins un tiraillement au niveau de du membre incriminé. En ce qui me concerne, je suis... hyposensible à la douleur.C'est très étrange, car je ne supporte pas la lumière vive ou le bruit, mais la douleur ? Rien, _nada_, je ne calcule même pas.
+Bien sûr, la plupart des gens sentiraient au moins un tiraillement au niveau de du membre incriminé. En ce qui me concerne, je suis... hyposensible à la douleur. C'est très étrange, car je ne supporte pas la lumière vive ou le bruit, mais la douleur ? Rien, _nada_, je ne calcule même pas.
 
 Ce n'est qu'en me savonnant les jambes sous la douche que je me suis rendu compte que mon pied avait, pas doublé, non, mais triplé de volume. On aurait dit que j'avais une bouée autour de la cheville. J'ai d'abord cru à la morsure d'un de ces cassos d'animaux sauvages peuplant ces montagnes.
 
