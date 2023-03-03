@@ -15,8 +15,7 @@ Je suis de retour à Buenos Aires, sur mes deux pattes (finalement). Là, je boi
 
 ## De la casse-couillerie
 
-
-Une pensée me taraude, depuis hier soir. Cette pensée tourne auoutr de la casse-couillerie attribuée aux femmes. Alors je me suis dit que je la plaquerais ici. 
+Une pensée me taraude, depuis hier soir. Cette pensée tourne autour de la casse-couillerie attribuée aux femmes. Alors je me suis dit que je la plaquerais ici.
 
 ### Une soirée banale
 
@@ -28,11 +27,11 @@ Je lui raconte mes pires vacances, avec une ex que j'ai fini par ghoster sans é
 
 ### La vie avec une femme ?
 
-Je suis restée coite. Ma meuf, en tout cas, n'est pas comme ça. Je quitte les gens casse-couilles, parfois sans même prendre la peine de les prévenir. Fallait pas jouer à la conne. Ma tolérance à la chianlit est extrêmement basse, pour qui que ce soit. La phrase que je sortais le plus à mes collégiens, quand ils commencçaient à faire du chouin-chouin, était "A mi clase se viene llorado".[^2] Je le dis à Big Daddy, qui répond : "Ok, mais c'est très rare. Ce que tu racontes de tes vacances pourries, c'est simplement la vie normale avec une femme pout la plupart des gens".
+Je suis restée coite. Ma meuf, en tout cas, n'est pas comme ça. Je quitte les gens casse-couilles, parfois sans même prendre la peine de les prévenir. Fallait pas jouer à la conne. Ma tolérance à la chianlit est extrêmement basse, pour qui que ce soit. La phrase que je sortais le plus à mes collégiens, quand ils commencçaient à faire du chouin-chouin, était "A mi clase se viene llorado".[^2] Je le dis à Big Daddy, qui répond : "Ok, mais c'est très rare. Ce que tu racontes de tes vacances pourries, c'est simplement la vie normale avec une femme pour la plupart des gens".
 
 Alors là.
 
-J'ai commencé à réflechir à ce qu'il disait. Il est vrai que je connais, à ma petite échelle, plus de femmes casse-couilles que de femmes pas casse-couilles. Quand je dis casse-couilles, je pense que vous comprenez. Je parle de gens qui chouinent sans prendre aucun responsabilité, qui se plaignent beaucoup et exigent des choses de vous non-stop, mais surtout, exigent que vous soyez leur réceptacle à névroses.
+J'ai commencé à réflechir à ce qu'il disait. Il est vrai que je connais, à ma petite échelle, plus de femmes casse-couilles que de femmes pas casse-couilles. Quand je dis casse-couilles, je pense que vous comprenez. Je parle de gens qui chouinent sans prendre aucune responsabilité, qui se plaignent beaucoup et exigent des choses de vous non-stop, mais surtout, exigent que vous soyez leur réceptacle à névroses.
 
 Je ne sais pas si j'entre moi-même dans cette catégorie. Probablement pas, car j'ai l'art de me casser quand quelque chose n'est pas à mon goût, sans rien dire à personne, sans prévenir. Je pense que je suis **pire** que les femmes lambda dont parlait Big Daddy, car avec moi c'est vicieux, je ne me plains pas, je n'essaie pas de te forcer à faire quoi que ce soit, je disparais simplement du jour au lendemain si tu m'as soulée une fois de trop, aussi bien en amour qu'en amitié. Je ne suis pas comme les autres filles, MOI : je suis pire.
 
@@ -57,13 +56,13 @@ Il est donc cocasse quand des bécasses hétéros blaguent sur le fait que je ve
 
 Parmi toutes ces élucubrations au beau milieu de Buenos Aires, je me demande : pourquoi s'infliger la compagnie de gens casse-couilles, homme ou femme ? Pourquoi est-ce si communément admis chez les hommes hétérosexuels que oui, les femmes sont chiantes et qu'il faut se les coltiner ? Qu'est-ce qui les empêche de se barrer, comme je l'ai fait avec cette ex ? Après tout, il existe plein d'autres femmes sur Terre, qui ne seront pas aussi casse-couilles que la mégère qu'ils se sont ponctuellement dégôtée ?
 
-J'ai plusieurs hypothèses. La première est que le travail domestique et sexuel qu'il obtiennent gratuitement au sein du couple hétérosexuel compense la casse-couillerie. Si on faisait un devis avec les estimations que ces services leur coûteraient en dehors du couple, on se rend compte que c'est un petit sacrifice peu onéreux, finalement. La deuxième est que quand les hommes sont prêts à fonder une famille, etc, ils prenennt vraiment la première meuf pas trop moche qui sera partante pour le faire avec eux. Donc oups, pas de bol, elle est casse-couille, en fait, mais le processus est déjà enclenché, donc _show must go on_. La troisième est qu'ils sont masochistes : ils adorent le rôle du bonhomme accablé par sa légitime, blaguent à ce sujet avec les copains, ce phénomène leur permettant d'apparaître comme la partie rationel et _cool_ de leur couple tandis que madame gueule.
+J'ai plusieurs hypothèses. La première est que le travail domestique et sexuel qu'il obtiennent gratuitement au sein du couple hétérosexuel compense la casse-couillerie. Si on faisait un devis avec les estimations que ces services leur coûteraient en dehors du couple, on se rend compte que c'est un petit sacrifice peu onéreux, finalement. La deuxième est que quand les hommes sont prêts à fonder une famille, etc, ils prenennt vraiment la première meuf pas trop moche qui sera partante pour le faire avec eux. Donc oups, pas de bol, elle est casse-couille, en fait, mais le processus est déjà enclenché, donc _show must go on_. La troisième est qu'ils sont masochistes : ils adorent le rôle du bonhomme accablé par sa légitime, blaguent à ce sujet avec les copains, ce phénomène leur permettant d'apparaître comme la partie rationelle et _cool_ de leur couple tandis que madame gueule.
 
 ## Toutes des casse-couilles
 
 Ces élucubrations ne m'auront probablement menée à rien, mais je suis à Buenos Aires et c'est tout même le sport national que de ~~se palucher intellectuellement~~ philosopher sur de grandes questions absolument pas originales.
 
-Ce que j'en conclus, c'est que la casse-cuillerie semble être prédominante chez la gente féminine, mais parce que **la casse-couillerie est la manifestation de l'impuissance**, [une impuissance apprise](https://en.wikipedia.org/wiki/Learned_helplessness). 'il est tout de même possible d'aimer les gens casse-couilles. Beaucoup de femmes de mon entourage le sont, mais je ne suis pas en couple avec elles, Dieu merci. Pour sortir de ce schéma, il faudrait désapprendre l'impuissance, et peut-être que nous aurions des rapports plus sereins entre nous.
+Ce que j'en conclus, c'est que la casse-couillerie semble être prédominante chez la gente féminine, mais parce que **la casse-couillerie est la manifestation de l'impuissance**, [une impuissance apprise](https://en.wikipedia.org/wiki/Learned_helplessness). Aussi, qu'il est tout de même possible d'aimer les gens casse-couilles. Beaucoup de femmes de mon entourage le sont, mais je ne suis pas en couple avec elles, Dieu merci. Pour sortir de ce schéma, il faudrait désapprendre l'impuissance, et peut-être que nous aurions des rapports plus sereins entre nous.
 
 Tout un programme.
 
