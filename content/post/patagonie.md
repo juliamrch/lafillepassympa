@@ -11,9 +11,9 @@ DisableComments: true
 draft: false
 ---
 
-Cette fois, je n'écris pas depuis la capitale de l'Argentine, mais au coeur de la Patagonie, plus précisément depuis les bordures du lac Nahuel Huapi, pas loin de San Carlos de Bariloche.
+Cette fois, je n'écris pas depuis la capitale de l'Argentine, mais au cœur de la Patagonie, plus précisément depuis les bordures du lac Nahuel Huapi, pas loin de San Carlos de Bariloche.
 
-Je n'ai jamais été aussi près de l'Antarctique. Si je dézoom mon appli Plans, voilà ce que je vois :
+Je n'ai jamais été aussi près de l'Antarctique. Si je dézoome mon appli Plans, voilà ce que je vois :
 
 ![localisation au sud de l'Amérique sur un globe terrestre qui montre l'Antartique juste en face](/images/mapamundi.jpg)
 
@@ -41,7 +41,7 @@ Ce n'est qu'en me savonnant les jambes sous la douche que je me suis rendu compt
 
 ### Hyposensibilité vie
 
-La pharmacienne m'a cependant confirmé qu'il s'agissait des effets d'une entorse, mais elle s'étonnait de me voir marcher, et que je ne ressente aucune douleur. Cela m'a rappelé un certains nombre de fois où je me suis fait engueulé aux urgences pour des problèmes de santé graves, que j'avais laissé traîner, car je ne ressentais qu'une "gêne". La seule raison pour laquelle j'ai fini aux urgences, c'est parce que quelqu'un m'a dit "meuf, c'est ultra grave, tu dois absolument consulter", sinon, je serais probablement morte.
+La pharmacienne m'a cependant confirmé qu'il s'agissait des effets d'une entorse, mais elle s'étonnait de me voir marcher, et que je ne ressente aucune douleur. Cela m'a rappelé un certain nombre de fois où je me suis fait engueuler aux urgences pour des problèmes de santé graves, que j'avais laissé traîner, car je ne ressentais qu'une "gêne". La seule raison pour laquelle j'ai fini aux urgences, c'est parce que quelqu'un m'a dit "meuf, c'est ultra grave, tu dois absolument consulter", sinon, je serais probablement morte.
 
 Sachant que je ne peux me fier à mon échelle de la douleur pour évaluer la gravité d'une blessure, j'y suis allée mollo. Sans pouvoir m'empêcher de penser en arrière-plan, toutefois, "Au pire, si je perds un pied, il m'en restera toujours un autre".
 

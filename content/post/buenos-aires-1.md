@@ -16,21 +16,21 @@ Ce mois-ci, j'ai suivi les conseils qu'on me prodigue depuis des lustres et je s
 
 ## Drames dans l'hémisphère Sud
 
-Je suis donc arrivée vers la fin de l'été, il fait encore tellement chaud que je transpire du sif dès 10h du mat. Dans l'hémisphère Sud, le changement climatique se ressent beaucoup plus. Un restaurateur me disait que les touristes fuient Buenos Aires car il y fait dorénavant trop chaud, et quand on perd 20 degrès en 24h le pays entier est malade.
+Je suis donc arrivée vers la fin de l'été, il fait encore tellement chaud que je transpire du sif dès 10h du mat. Dans l'hémisphère Sud, le changement climatique se ressent beaucoup plus. Un restaurateur me disait que les touristes fuient Buenos Aires, car il y fait dorénavant trop chaud, et quand on perd 20 degrés en 24h le pays entier est malade.
 
 ### _Cash is king_
 
 La monnaie est tellement fluctuante (plus de 40% d'inflation) que certains commerces doivent changer leurs prix au cours de la journée. Certains n'affichent même plus les prix, il faut scanner un QR code pour les connaître, et ils s'indexent sur ces fluctuations. Le billet le plus gros est celui de 1000 pesos ARS et il ne vaut plus rien, on paie une course en taxi de 15 minutes avec, ou une glace au _dulce de leche_.
 
-Bien sûr, avec ces problématiques, les entreprises crypto fleurissent ici, les crypto-monnaies étant moins fluctuantes que la monnaie fiduciaire. Des tas de jeunes préfèrent mettre leurs économies en Bitcoin et un tour dans le rayon "Finances" de la librairie de l'Ateneo confirme que c'est un sujet lambda, qui ne provoque guère l'hystérie que l'on connaît en Europe. C'est déjà ce que j'ai essayé d'expliquer à certains de mes collègues, en France, mais je ne suis pas sûre que les gens du Nord captent vraiment les implications vitales de ce sujet. Ou alors, ils s'en foutent. Peu importe.
+Bien sûr, avec ces problématiques, les entreprises crypto fleurissent ici, les cryptomonnaies étant moins fluctuantes que la monnaie fiduciaire. Des tas de jeunes préfèrent mettre leurs économies en Bitcoin et un tour dans le rayon "Finances" de la librairie de l'Ateneo confirme que c'est un sujet lambda, qui ne provoque guère l'hystérie que l'on connaît en Europe. C'est déjà ce que j'ai essayé d'expliquer à certains de mes collègues, en France, mais je ne suis pas sûre que les gens du Nord captent vraiment les implications vitales de ce sujet. Ou alors, ils s'en foutent. Peu importe.
 
 Quoi qu'il en soit, des commerces acceptent les paiements en crypto directement à Buenos Aires, ils vivent en 2043.
 
 ### Mood : Économie parallèle
 
-Ma pote, que nous appelerons AdV (pour Acolyte de Voyage), et moi-même avons échangé des euros contre des pesos au taux non officiel, dans une _cueva_, qui veut dire "grotte" en français, mais se traduit plutôt par "cave". Ce n'est pas vraiment légal, mais c'est toléré. On peut obtenir un taux de change plus intéressant et c'est ce que fait la plupart des Argentins payés en euros ou en dollars.
+Ma pote, que nous appellerons AdV (pour Acolyte de Voyage), et moi-même avons échangé des euros contre des pesos au taux non officiel, dans une _cueva_, qui veut dire "grotte" en français, mais se traduit plutôt par "cave". Ce n'est pas vraiment légal, mais c'est toléré. On peut obtenir un taux de change plus intéressant et c'est ce que font la plupart des Argentins payés en euros ou en dollars.
 
-Ce n'est pas la peine de débarquer la bouche en coeur et de demander autour de vous où vous pouvez trouver une _cueva_, car vous allez probablement finir par vous faire braquer par un enfant de 10 ans dès que vous l'ouvrirez à ce sujet. Si vous y restez assez longtemps, ou que vous avez déjà des amis sur place, vous finirez probablement par en trouver une.
+Ce n'est pas la peine de débarquer la bouche en cœur et de demander autour de vous où vous pouvez trouver une _cueva_, car vous allez probablement finir par vous faire braquer par un enfant de 10 ans dès que vous l'ouvrirez à ce sujet. Si vous y restez assez longtemps, ou que vous avez déjà des amis sur place, vous finirez probablement par en trouver une.
 
 Comme je connais des gens sur place, j'ai directement plongé dans l'économie parallèle, allez hop, je suis maintenant la reine du pétrole.
 
@@ -48,13 +48,13 @@ Donc AdV et moi ressemblons complètement à cette paire :
 
 AdV souhaite caser un maximum de visites et d'activités en un temps record, alors que je suis une âme de poète contemplative qui peut rester deux heures à écrire dans un café, ou à regarder des canards. Face aux imprévus assez inhérents à n'importe quel voyage, elle manifeste des émotions, tandis que je suis déjà en train de soupeser plusieurs solutions susceptibles de résoudre notre problème du moment. Au moment où elle finit d'émotionner et va commencer à envisager une solution, j'ai déjà trouvé.
 
-Je discute donc de cela avec AdV, d'à quel point il est inutile de se pourrir la vie face aux imprévus, car ils font partie de la vie et du voyage. Mais il me semble que, si j'ai, de mon côté, intégré la probabilité d'évènements aléatoires dans mon algorithme interne, et parvient même à m'amuser à les résoudre comme des énigmes, ce ne soit finalement pas quelque chose de courant.
+Je discute donc de cela avec AdV, d'à quel point il est inutile de se pourrir la vie face aux imprévus, car ils font partie de la vie et du voyage. Mais il me semble que, si j'ai, de mon côté, intégré la probabilité d'évènements aléatoires dans mon algorithme interne, et parviens même à m'amuser à les résoudre comme des énigmes, ce ne soit finalement pas quelque chose de courant.
 
 Ce que je n'arrive pas à intégrer dans mon algorithme interne, cependant, ce sont les réactions émotionnelles d'autrui. Je ne m'y ferai probablement jamais malgré l'insistance de ma psy à accepter les êtres humains dans, justement, toute leur humanité (dégoûtante).
 
 ## Bénir l'enfant
 
-La raison principale de ma venue est d'assister au baptême de ma filleule, née ici. En tant que marraine, il est mon devoir que de contribuer à ce que l'enfant devienne une princesse pourrie-gâtée que rien en ce monde ne pourra arrêter. Et aussi, de la récupérer si quelque chose venait à arriver aux parents, mais on préfère ne pas penser à cette éventualité.
+La raison principale de ma venue est d'assister au baptême de ma filleule, née ici. En tant que marraine, il est mon devoir que de contribuer à ce que l'enfant devienne une princesse pourrie gâtée que rien en ce monde ne pourra arrêter. Et aussi, de la récupérer si quelque chose venait à arriver aux parents, mais on préfère ne pas penser à cette éventualité.
 
 J'ai donc béni l'enfant de mon autisme lors d'une cérémonie un peu païenne appelée le _bautismo de agua_, qui se tient avant le baptême séculaire à l'Église. Je devais lui donner un peu d'eau bénite avec du sel, pas la meilleure façon d'entamer une relation sereine avec elle, si vous voulez mon avis.
 
