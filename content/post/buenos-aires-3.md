@@ -1,25 +1,14 @@
 ---
-
 title: "Traité pété de la casse-couillerie genrée"
-
 date: 2023-03-03T13:12:58-03:00
-
 Description: "Journal porteño #3"
-
-categories: 
-
-  - "élucubrations"
-
-tags: 
-
-  - "couple"
-
-  - "genre"
-
+categories: 
+  - "élucubrations"
+tags: 
+  - "couple"
+  - "genre"
 DisableComments: true
-
 draft: false
-
 ---
 
 Je suis de retour à Buenos Aires, sur mes deux pattes (finalement). Là, je bois un Chai Latte au café du Musée d'Art Moderne, comme la parfaite hipster que je suis, tandis que je réfléchis à des choses de la vie.  
@@ -28,7 +17,7 @@ Je suis de retour à Buenos Aires, sur mes deux pattes (finalement). Là, je boi
 
 Une pensée me taraude, depuis hier soir. Cette pensée tourne autour de la casse-couillerie attribuée aux femmes. Alors je me suis dit que je la plaquerais ici.
 
-  ### Une soirée banale
+### Une soirée banale
 
 J'étais en train de dîner au Green Bambú avec le père de ma filleule, et on se racontait nos vies, comme l’on fait entre amis avec qui on n’a pas eu l'occasion de traîner depuis longtemps. AdV était partie avec une connaissance sommelière à un restaurant spécialisé dans les vins, et j'avais décliné l'invitation sachant pertinemment que passer la soirée à écouter des gens parler de vin était, en toute franchise, au-dessus de mes forces.
 
@@ -61,7 +50,7 @@ En général, je trouve les femmes belles, séduisantes, je trouve les hommes dr
 Il s'avère que les seules personnes à qui je me suis réellement attachée, avec qui je suis capable de me projeter dans une vie commune, et auprès desquelles je suis prête à faire des concessions pour préserver et renforcer notre relation amoureuse, étaient des femmes, donc oui, je suppose qu'on peut me qualifier de lesbienne. Mais pas parce que j'aime "les femmes", comme ça, abstraitement. C'est même le contraire, car quand Big Daddy m'a sorti sa fameuse phrase, j'ai pensé "Putain le con, il a raison", prouvant une certaine dose de misogynie bien intériorisée, quand même.
 
 Il est donc cocasse quand des bécasses hétéros blaguent sur le fait que je veux probablement les péchos, car non, je n'aime pas "les femmes" et encore moins elles.
- 
+
 ### Pourquoi s'infliger cela
 
 Parmi toutes ces élucubrations au beau milieu de Buenos Aires, je me demande : pourquoi s'infliger la compagnie de gens casse-couilles, homme ou femme ? Pourquoi est-ce si communément admis chez les hommes hétérosexuels que oui, les femmes sont chiantes et qu'il faut se les coltiner ? Qu'est-ce qui les empêche de se barrer, comme je l'ai fait avec cette ex ? Après tout, il existe plein d'autres femmes sur Terre, qui ne sera pas aussi casse-couilles que la mégère qu'ils se sont ponctuellement dégotée ?
