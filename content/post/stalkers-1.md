@@ -11,15 +11,15 @@ Categories:
 DisableComments: true
 ---
 
-Mon premier _stalker_ n'a probablement pas été le tout premier. Plus jeune, j'étais probablement trop à l'Ouest pour me rendre compte des agissements inquiétants de certains individus avec lesquel nous devons composer, en qualité d'animaux sociaux. 
+Mon premier _stalker_ n'a probablement pas été le tout premier. Plus jeune, j'étais probablement trop à l'Ouest pour me rendre compte des agissements inquiétants de certains individus avec lesquels nous devons composer, en qualité d'animaux sociaux.
 
-Aujourd'hui, je reviens sur ce phénomène et sur mon expérience de ce qui intrigue et fascine, au point d'avoir fait exploser les audiences de [la dernière série phare à son sujet](https://fr.wikipedia.org/wiki/You_(série_télévisée)) : le _stalking_. 
+Aujourd'hui, je reviens sur ce phénomène et sur mon expérience de ce qui intrigue et fascine, au point d'avoir fait exploser les audiences de [la dernière série phare à son sujet](https://fr.wikipedia.org/wiki/You_(série_télévisée)) : le _stalking_.
 
 ## Typologie du stalker
 
 J'ai grandi avant l'heure de gloire des [relations parasociales](https://fr.wikipedia.org/wiki/Relation_parasociale) qui font notre bonheur sur l'internet moderne, et maintiennent fiancièrement à flot nos chers influenceurs. Je suis une enfant des années 90 et une ado des années 2000 (autrement dit : la crème de la crème). Mais le _stalking_, ou la traque furtive, n'a ni âge, ni époque.
 
-Ce terme désignant l'approche furtive du gibier par les chasseurs a evolué pour prendre une autre signification : la persécution et le harcèlement névrotique de quelqu'un de façon répétée et sur une longue période. Si on en croit les études réalisées[^1], la plupart des _stalkers_ (80%) sont des hommes qui tentent de forcer l'intimité avec leur victime, tandis que [la proportion des femmes parmi les _stalkers_](https://ajp.psychiatryonline.org/doi/epdf/10.1176/appi.ajp.158.12.2056) sont plus à même de traquer et persécuter d'autres femmes dans leurs cercles professionnels. 
+Ce terme désignant l'approche furtive du gibier par les chasseurs a evolué pour prendre une autre signification : la persécution et le harcèlement névrotique de quelqu'un de façon répétée et sur une longue période. Si on en croit les études réalisées[^1], la plupart des _stalkers_ (80%) sont des hommes qui tentent de forcer l'intimité avec leur victime, tandis que [la proportion des femmes parmi les _stalkers_](https://ajp.psychiatryonline.org/doi/epdf/10.1176/appi.ajp.158.12.2056) est plus à même de traquer et persécuter d'autres femmes dans leurs cercles professionnels.
 
 [^1]: dans cet article, je vais principalement citer des études issues de [The American Journal of Psychiatry](https://ajp.psychiatryonline.org). N'ayant aucune expertise dans la recherche en psychiatrie, je ne peux garantir que ces études ne soient pas complètement pétées. 
 
