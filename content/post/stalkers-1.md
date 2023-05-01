@@ -35,7 +35,7 @@ Tout cela n'était pas planifié en fonction de lui : c'était mon fonctionnemen
 
 ### La traque
 
-Refuser de prendre les lettres ne l'a pas dissuadé. Il y a ajouté des pétales de roses fanées (???) et a commencé à trouver mes cachettes au lycée pour venir les y déposer. Pour s'asseoir à la bibliothèque et me regarder. Quand j'ai rennoncé au vélo, lassée de frôler la mort sur la route, il a commencé à me suivre de loin, pour savoir où j'habitais.
+Refuser de prendre les lettres ne l'a pas dissuadé. Il y a ajouté des pétales de roses fanées (???) et a commencé à trouver mes cachettes au lycée pour venir les y déposer. Pour s'asseoir à la bibliothèque et me regarder. Quand j'ai renoncé au vélo, lassée de frôler la mort sur la route, il a commencé à me suivre de loin, pour savoir où j'habitais.
 
 Mes camarades de classe, un groupe de filles assez hilares devant la situation, ont essayé de me pousser à me montrer compréhensive envers lui. Je leur ai donc montré le contenu des lettres et les pétales. Mais mon coup de maître a été de retouver son blog érotique. C'est ce qui a fait basculer la situation.
 
@@ -43,7 +43,7 @@ J'ai donc _stalké_ mon _stalker_. Ce ne fut pas compliqué. Il a suffit d'assoc
 
 ### L'offensive des nénettes
 
-J'ai laissé un commentaire sur son blog. Évidement, sinon ce n'est pas drôle. Je savais qu'il ne serait pas vraiment embarassé par ma trouvaille, mais je ne le faisais pas dans ce but. J'avais une autre idée derrière la tête.
+J'ai laissé un commentaire sur son blog. Évidement, sinon ce n'est pas drôle. Je savais qu'il ne serait pas vraiment embarrassé par ma trouvaille, mais je ne le faisais pas dans ce but. J'avais une autre idée derrière la tête.
 
 Le lendemain, il m'attendait dans un coin de couloir interdit aux élèves sur les temps de pause, l'une de mes nouvelles cachettes. Je me suis assise face à lui, et ai attendu. Il m'a parlé de mon commentaire sur son blog, confirmant qu'il était bien derrière ces écrits délicats. J'ai écouté sans rien dire. Il a essayé de m'embrasser, mais je l'ai esquivé et suis allée retrouver mes camarades à la caféteria. Je leur ai parlé du blog et, comme je m'y attendais, elles ont été dégoûtées. La plus agée d'entre nous, qui était un peu notre grande soeur à toutes, a décrété qu'il ne fallait pas laisser le pervers m'approcher et faire passer le mot : plus aucune lettre ou autre forme de communication ne devait filtrer.
 
