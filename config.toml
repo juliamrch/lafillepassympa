@@ -3,9 +3,9 @@ languageCode = "en-us"
 DefaultContentLanguage = "fr"
 
 # theme as hugo module
-#theme = "github.com/lxndrblz/anatole"
+theme = "github.com/lxndrblz/anatole"
 # theme as git submodule
-theme = "anatole"
+#theme = "anatole"
 
 [params]
 title = "La Fille Pas Sympa"
@@ -26,17 +26,17 @@ url = "https://twitter.com/JuliaMarchh"
 [[params.socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/juliamrch"
+url = "https://github.com/juliamrch/lafillepassympa"
 
 [[params.socialIcons]]
 icon = "fab fa-gitlab"
 title = "GitLab"
-url = "https://gitlab.com/juliamrch"
+url = "https://gitlab.com/juliamrch/lafillepassympa"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:contact@juliamarch.com"
+url = "mailto:juliamarch.eth@ethereum.email"
 
 [[params.socialIcons]]
 icon = "fa fa-cog fa-spin"
@@ -133,3 +133,10 @@ localizedDates = false
 [[related.indices]]
   name = 'tags'
   weight = 80
+
+[module]
+  # uncomment line below for temporary local development of module
+  # replacements = "github.com/lxndrblz/anatole -> ../../anatole"
+  [[module.imports]]
+    path = "github.com/lxndrblz/anatole"
+    disable = false

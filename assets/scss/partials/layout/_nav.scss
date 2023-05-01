@@ -29,7 +29,7 @@
       }
 
       &--end {
-        flex-shrink: 1;
+        flex-shrink: 0 0 auto;
         justify-content: flex-end;
       }
     }
@@ -59,7 +59,8 @@
   &__link {
     &--active {
       padding-bottom: $py-desktop;
-
+      flex-shrink: 0;
+      
       @include desktop {
         @include themed() {
           border-bottom: 1px solid t('primary');
