@@ -69,5 +69,3 @@ Cependant, ces conclusions s'appliquent à cette situation précise et à cet in
 La raison pour laquelle j'ai pu me débarrasser facilement de mon premier _stalker_ est simple : ce n'était pas un _stalker_ rancunier, que les chercheurs décrivent comme étant le type le plus difficile à dissuader, tant ils se parent de vertu et de droiture morale. Il m'est difficile de le classer : incompétent ou prédateur ? Ce qui a fini de le dissuader, c'est le barrage de meufs qui s'est formé autour de moi. Mais, que faire quand votre _stalker_ est une femme, qui n'est absolument pas animée par une infatuation morbide à votre égard ? Quand, ce barrage de meufs, elle essaie d'en faire ses complices par des moyens détournés ?
 
 Cela fera l'objet d'un prochain article. Et, croyez-moi, j'ai des choses à dire.
-
-Cela fera l'objet d'un prochain article. Et, croyez-moi, j'ai des choses à dire.
