@@ -2,9 +2,13 @@
 title: "Mon premier stalker"
 date: 2023-05-01T17:11:10+02:00
 Description: "Gérer ses stalkers"
-Tags: []
-Categories: []
-DisableComments: false
+Tags:
+- "psychiatrie"
+- "stalking"
+
+Categories:
+- "élucubrations"
+DisableComments: true
 ---
 
 Mon premier _stalker_ n'a probablement pas été le tout premier. Plus jeune, j'étais probablement trop à l'Ouest pour me rendre compte des agissements inquiétants de certains individus avec lesquel nous devons composer, en qualité d'animaux sociaux. 
@@ -21,7 +25,7 @@ Ce terme désignant l'approche furtive du gibier par les chasseurs a evolué pou
 
 En ce qui me concerne, j'ai eu affaire aux deux cas de figures.
 
-##  Mon "premier" stalker
+## Mon "premier" stalker
 
 Mon premier _stalker_ était un camarade du lycée, alors que j'étais en première. Il était en filière S, moi en filière ES, on ne s'était jamais parlés. Nous avons sympathisé lors d'une sortie de classe à laquelle mon professeur principal m'avait obligée à participer, au lieu de me laisser sécher comme à mon habitude. Grand mal lui en pris. Je suis allée à cette sortie, ai discuté de psychanalyse et de Freud avec un nerd, et bim : me voilà affublée d'un prétendant névrotique.
 
