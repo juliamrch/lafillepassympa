@@ -47,14 +47,14 @@ J'ai laissé un commentaire sur son blog. Évidement, sinon ce n'est pas drôle.
 
 Le lendemain, il m'attendait dans un coin de couloir interdit aux élèves sur les temps de pause, l'une de mes nouvelles cachettes. Je me suis assise face à lui, et ai attendu. Il m'a parlé de mon commentaire sur son blog, confirmant qu'il était bien derrière ces écrits délicats. J'ai écouté sans rien dire. Il a essayé de m'embrasser, mais je l'ai esquivé et suis allée retrouver mes camarades à la caféteria. Je leur ai parlé du blog et, comme je m'y attendais, elles ont été dégoûtées. La plus agée d'entre nous, qui était un peu notre grande soeur à toutes, a décrété qu'il ne fallait pas laisser le pervers m'approcher et faire passer le mot : plus aucune lettre ou autre forme de communication ne devait filtrer.
 
-J'ai donc passé le reste des récréations en compagnie des nénettes, et à faire le trajet du retour avec elles également. Rien n'effraie plus un lycéen vaguement incel qu'un gang de meufs. J'étais à l'abri, ma tranquillité était garantie. J'aurais instinctivement préféré ma solitude haituelle, mais j'ai commencé à les apprécier. À la rentrée suivante, même si le gars était parti à la fac, j'ai continué à traîner avec le gang des nénettes de ma classe.
+J'ai donc passé le reste des récréations en compagnie des nénettes, et à faire le trajet du retour avec elles également. Rien n'effraie plus un lycéen vaguement incel qu'un gang de meufs. J'étais à l'abri, ma tranquillité était garantie. J'aurais instinctivement préféré ma solitude habituelle, mais j'ai commencé à les apprécier. À la rentrée suivante, même si le gars était parti à la fac, j'ai continué à traîner avec le gang de nénettes de ma classe.
 
 ## Les mécanismes du stalking
 
 Si je me fie à mon expérience, j'en tire les conclusions suivantes : 
 
 1. Se terrer et se cacher ne fait pas cesser le _stalking_, voire peut exciter le _stalker_ et l'inciter à aller plus loin
-2. Plus la victime a l'air isolée, plus le sentiment de pouvoir du _stalker_ grandit
+2. Plus la victime semble isolée, plus le sentiment de pouvoir du _stalker_ grandit
 3. L'entourage ou les témoins n'ont pas conscience de la gravité de la situation et peuvent se rendre complices sans s'en rendre compte
 4. On peut se protéger en sachant à l'avance à quelles valeurs adhère l'entourage et faire basculer la situationn en sa faveur
 
