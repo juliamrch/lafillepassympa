@@ -2,10 +2,10 @@ baseURL = "https://lafillepassympa.com"
 languageCode = "en-us"
 DefaultContentLanguage = "fr"
 
-# theme as hugo module
-# theme = "github.com/lxndrblz/anatole"
-# theme as git submodule
-# theme = "custom-anatole"
+#theme as hugo module
+#theme = "github.com/lxndrblz/anatole"
+#theme as git submodule
+#theme = "custom-anatole"
 
 [params]
 title = "La Fille Pas Sympa"
