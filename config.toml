@@ -1,6 +1,6 @@
 baseURL = "https://lafillepassympa.com"
 languageCode = "en-us"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "fr"
 
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"
