@@ -1,4 +1,5 @@
 themes/custom-anatole
 clever.json
-public/*
+public/
 content/post/mensonges.md
+.obsidian/
