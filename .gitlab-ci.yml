@@ -1,7 +1,7 @@
 image: clevercloud/clever-tools:latest
 
 variables:
-  CLEVER_KIND_APPLICATION: "node" # change the value if needed
+  CLEVER_KIND_APPLICATION: "static" # change the value if needed
 #-------------------------------
 # Deploy
 #-------------------------------
