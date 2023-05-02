@@ -1,0 +1,34 @@
+image: clevercloud/clever-tools:latest
+
+variables:
+  CLEVER_KIND_APPLICATION: "static" # change the value if needed
+#-------------------------------
+# Deploy
+#-------------------------------
+production:deploy:to:clever-cloud:
+  only:
+    - master    
+  environment:
+    name: production-clever-cloud/${CI_PROJECT_NAME}
+    url:   https://${CI_PROJECT_NAME}.cleverapps.io
+  script: |
+    CREATE_CC_APP=false
+    clever link -o ${ORGANIZATION_ID} ${CI_PROJECT_NAME} || CREATE_CC_APP=true
+    if ${CREATE_CC_APP}; then clever create --type ${CLEVER_KIND_APPLICATION} -o ${ORGANIZATION_ID} ${CI_PROJECT_NAME}; sleep 10; fi
+    clever domain add ${CI_PROJECT_NAME}.cleverapps.io || true
+    clever deploy -f
+
+    #-------------------------------
+# Remove - this is a manual job
+#-------------------------------
+production:remove:from:clever-cloud:
+  when: manual
+  only:
+    - master   
+  environment:
+    name: production-clever-cloud/${CI_PROJECT_NAME}
+    action: stop
+  script: |
+    DELETE_CC_APP=true
+    clever link -o ${ORGANIZATION_ID} ${CI_PROJECT_NAME} || DELETE_CC_APP=false
+    if $DELETE_CC_APP; then clever delete -y -a ${CI_PROJECT_NAME}; fi
