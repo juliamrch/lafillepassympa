@@ -1,5 +1,5 @@
 image: clevercloud/clever-tools:latest
-
+entrypoint: ["/bin/sh", "-c"]
 variables:
   CLEVER_KIND_APPLICATION: "static" # change the value if needed
 #-------------------------------
