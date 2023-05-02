@@ -1,7 +1,7 @@
 image: clevercloud/clever-tools:latest
-entrypoint: ["/bin/sh", "-c"]
+
 variables:
-  CLEVER_KIND_APPLICATION: "static" # change the value if needed
+  CLEVER_KIND_APPLICATION: "node" # change the value if needed
 #-------------------------------
 # Deploy
 #-------------------------------
@@ -10,7 +10,7 @@ production:deploy:to:clever-cloud:
     - master    
   environment:
     name: production-clever-cloud/${CI_PROJECT_NAME}
-    url:   https://${CI_PROJECT_NAME}.cleverapps.io
+    url:  https://${CI_PROJECT_NAME}.cleverapps.io
   script: |
     CREATE_CC_APP=false
     clever link -o ${ORGANIZATION_ID} ${CI_PROJECT_NAME} || CREATE_CC_APP=true
@@ -18,7 +18,7 @@ production:deploy:to:clever-cloud:
     clever domain add ${CI_PROJECT_NAME}.cleverapps.io || true
     clever deploy -f
 
-    #-------------------------------
+#-------------------------------
 # Remove - this is a manual job
 #-------------------------------
 production:remove:from:clever-cloud:
