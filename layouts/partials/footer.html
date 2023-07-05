@@ -25,6 +25,9 @@
     {{ end }}
   </ul>
 </footer>
+
+{{ partial "matomo-tracking" . }}
+
 {{- partial "medium-zoom.html" .context -}}
 {{- partial "math.html" .context -}}
 {{- if (hasPrefix .context.Site.GoogleAnalytics "G-") -}}
