@@ -33,5 +33,3 @@ Vous verrez peut-être des publicités, sur ce blog: elles ne sont pas de mon fa
 - Pour toute demande d'ordre professionnelle RÉMUNÉRÉE ( lisez bien ), vous pouvez me contacter par mail.
 
 - Pour toute demande d'ordre affective ou de travail émotionnel, une facture vous sera adressée avec un taux horaire exorbitant (les affaires sont les affaires).
-
-{{< matomo-optout >}}
