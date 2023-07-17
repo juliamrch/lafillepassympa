@@ -10,7 +10,7 @@ tags:
 DisableComments: true
 ---
 
-Je fais une pause dans ma saga sur le stalking pour parler d'un des sujets qui m'a tenu et me tient toujours à coeur.
+Je fais une pause dans [ma saga sur le stalking](/post/stalkers-1) pour parler d'un des sujets qui m'a tenu et me tient toujours à coeur.
 
 Je suis au téléphone avec un ami qui revient d'un séjour de colo, en tant que directeur. Il me lit, dépité, les retours que les parents ont envoyés par mail, à peine 24h après la fin du séjour, sans que leur avis n'ait été sollicité, par ailleurs.
 
