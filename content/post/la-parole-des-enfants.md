@@ -31,7 +31,7 @@ C'était très frustrant et je m'en souviens beaucoup trop bien.
 En 2023, quand un enfant parle, il ou elle sait qu'une réaction va s'ensuivre. Voilà quelques exemples, tirés de ma propre expérience dans l'animation et l'enseignement :
 
 1. Votre enfant rentre d'une colonie de vacances et vous dit que la nourriture était infecte, que c'était nul, et qu'il s'est ennuyé. Pourtant, l'équipe d'animateurs l'a vu faire les quatre cents coups avec des copains, s'amuser comme un fou et redemander du rab au déjeuner.
-2. Votre enfant rentre d'une colonie de vacances, vous dit qu'il a passé les meilleures vacances de sa vie. Pourant, il les a passées enfermé dans les toilettes à lire des BD et a refusé toutes les sollicitations des animateurs.
+2. Votre enfant rentre d'une colonie de vacances, vous dit qu'il a passé les meilleures vacances de sa vie. Pourtant, il les a passées enfermé dans les toilettes à lire des BD et a refusé toutes les sollicitations des animateurs.
 3. Votre enfant rentre du collège et vous dit qu'il s'est fait exclure de cours parce que la prof a une dent contre lui et qu'il n'a rien fait. Sur le logiciel qui vous sert à pister sa scolarité, pourtant, vous ne constatez aucun rapport d'exclusion.
 4. Votre enfant rentre du collège déprimé, et vous dit que la prof va le saquer car il faut rendre les devoirs à travers l'intranet. Vous vivez dans une zone blanche et il risque le zéro.
 
