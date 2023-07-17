@@ -35,7 +35,7 @@ En 2023, quand un enfant parle, il ou elle sait qu'une réaction va s'ensuivre. 
 3. Votre enfant rentre du collège et vous dit qu'il s'est fait exclure de cours parce que la prof a une dent contre lui et qu'il n'a rien fait. Sur le logiciel qui vous sert à pister sa scolarité, pourtant, vous ne constatez aucun rapport d'exclusion.
 4. Votre enfant rentre du collège déprimé, et vous dit que la prof va le saquer car il faut rendre les devoirs à travers l'intranet. Vous vivez dans une zone blanche et il risque le zéro.
 
-Dans les situations que j'ai énumérées, il manque dans chacune d'entre elles une partie du discours. Ce qui, de mon temps, était balayé d'un revers de main ou d'un "Toujorus un prétexte pour râler", suscite aujourd'hui une émotion parentale vive et dramatique.
+Dans les situations que j'ai énumérées, il manque dans chacune d'entre elles une partie du discours. Ce qui, de mon temps, était balayé d'un revers de main ou d'un "Toujours un prétexte pour râler", suscite aujourd'hui une émotion parentale vive et dramatique.
 
 ## Quand les parents n'écoutent pas
 
