@@ -18,7 +18,7 @@ Je suis au téléphone avec un ami qui revient d'un séjour de colo, en tant que
 
 ## Un pedigree vreumant
 
-Le sujet de la parole et de l'enfance m'intéresse, forcément. Avant de devenir professeure, j'assistais à des ateliers avec des enseignants Freinet, lu le sacro-saint _Parler pour les enfants écoutent, écouter pour que les enfants parlent_ de Faber et Mazlish, et me suis longuement éduquée sur la psychologie et le développement des enfants et des adolescents. C'est normal : j'ai toujours travaillé avec eux et je suis autiste, donc je fais les choses bien. Je ne suis donc pas la plus ignare en la matière, pas la plus éduquée non plus.
+Le sujet de la parole et de l'enfance m'intéresse, forcément. Avant de devenir professeure, j'assistais à des ateliers avec des enseignants Freinet, j'ai lu le sacro-saint _Parler pour les enfants écoutent, écouter pour que les enfants parlent_ de Faber et Mazlish, et me suis longuement éduquée sur la psychologie et le développement des enfants et des adolescents. C'est normal : j'ai toujours travaillé avec eux et je suis autiste, donc je fais les choses bien. Je ne suis donc pas la plus ignare en la matière, pas la plus éduquée non plus.
 
 Contrairement à ce que les réacs peuvent bien pérorer, la parole des enfants n'est pas sacralisée. Les enfants ne sont pas plus écoutés aujourd'hui qu'hier. Comme nous, autistes, ils s'expriment, mais ils ne sont ni entendus, ni rééllement compris, de par l'ignorance et l'ego trop délicat du récepteur adulte.
 
@@ -30,7 +30,7 @@ C'était très frustrant et je m'en souviens beaucoup trop bien.
 
 En 2023, quand un enfant parle, il ou elle sait qu'une réaction va s'ensuivre. Voilà quelques exemples, tirés de ma propre expérience dans l'animation et l'enseignement :
 
-1. Votre enfant rentre d'une colonie de vacances et vous dit que la nourriture était infecte, que c'était nul, et qu'il s'est ennuyé. Pourtant, l'équipe d'animateurs l'a vu faire les quatre-cent coups avec des copains, s'amuser comme un fou et redemander du rab au déjeuner.
+1. Votre enfant rentre d'une colonie de vacances et vous dit que la nourriture était infecte, que c'était nul, et qu'il s'est ennuyé. Pourtant, l'équipe d'animateurs l'a vu faire les quatre cents coups avec des copains, s'amuser comme un fou et redemander du rab au déjeuner.
 2. Votre enfant rentre d'une colonie de vacances, vous dit qu'il a passé les meilleures vacances de sa vie. Pourant, il les a passées enfermé dans les toilettes à lire des BD et a refusé toutes les sollicitations des animateurs.
 3. Votre enfant rentre du collège et vous dit qu'il s'est fait exclure de cours parce que la prof a une dent contre lui et qu'il n'a rien fait. Sur le logiciel qui vous sert à pister sa scolarité, pourtant, vous ne constatez aucun rapport d'exclusion.
 4. Votre enfant rentre du collège déprimé, et vous dit que la prof va le saquer car il faut rendre les devoirs à travers l'intranet. Vous vivez dans une zone blanche et il risque le zéro.
