@@ -1,4 +1,6 @@
 <footer class="footer footer__{{ .footerClassModifier }}">
+  {{ partial "newsletter" . }}
+  
   <ul class="footer__list">
     <li class="footer__item">
       &copy;
@@ -22,8 +24,10 @@
           {{ .Name }}
         </a>
       </li>
+      
     {{ end }}
   </ul>
+  
 </footer>
 {{- partial "medium-zoom.html" .context -}}
 {{- partial "math.html" .context -}}
