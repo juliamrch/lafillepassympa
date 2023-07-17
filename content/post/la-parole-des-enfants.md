@@ -79,7 +79,7 @@ Si vous avez un enfant autiste, soyez tranquille : il s'en bat les couilles, de 
 
 ### La lumière au bout du tunnel
 
-L'autre possibilité, c'est que votre enfant ne se sente pas assez en sécurité pour s'exprimer, et qu'il se lâche en votre présence et vous raconte toutes les choses qui l'angoissent, tout ce qu'il a mal vécu. Cela veut dire qu'il vous fait confiance, pas qu'il a une vie de merde. Si vous courez faire un scandale à l'extérieur, avant de l'avoir écouté et rassuré, vous perdrez cette confiance. Tout ce qu'il va retenir, c'est qu'il faut éviter de vous raconter ses tracas, car vous allez en faire tout un plat, au lieu d'agir en adulte responsable que vous êtes censés être, et quprès de qu'il est venu se confier.
+L'autre possibilité, c'est que votre enfant ne se sente pas assez en sécurité pour s'exprimer, et qu'il se lâche en votre présence et vous raconte toutes les choses qui l'angoissent, tout ce qu'il a mal vécu. Cela veut dire qu'il vous fait confiance, pas qu'il a une vie de merde. Si vous courez faire un scandale à l'extérieur, avant de l'avoir écouté et rassuré, vous perdrez cette confiance. Tout ce qu'il va retenir, c'est qu'il faut éviter de vous raconter ses tracas, car vous allez en faire tout un plat, au lieu d'agir en adulte responsable que vous êtes censés être, et auprès de qu'il est venu se confier.
 
 ## Le mot de la fin
 
