@@ -19,7 +19,7 @@ Je suis au téléphone avec un ami qui revient d'un séjour de colo, en tant que
 
 ## Un pedigree vreumant
 
-Le sujet de la parole et de l'enfance m'intéresse, forcément. Avant de devenir professeure, j'assistais à des ateliers avec des enseignants Freinet, j'ai lu le sacro-saint _Parler pour les enfants écoutent, écouter pour que les enfants parlent_ de Faber et Mazlish, et me suis longuement éduquée sur la psychologie et le développement des enfants et des adolescents. C'est normal : j'ai toujours travaillé avec eux et je suis autiste, donc je fais les choses bien. Je ne suis donc pas la plus ignare en la matière, pas la plus éduquée non plus.
+Le sujet de la parole et de l'enfance m'intéresse, forcément. Avant de devenir professeure, j'assistais à des ateliers avec des enseignants Freinet, j'ai lu le sacro-saint _Parler pour que les enfants écoutent, écouter pour que les enfants parlent_ de Faber et Mazlish, et me suis longuement éduquée sur la psychologie et le développement des enfants et des adolescents. C'est normal : j'ai toujours travaillé avec eux et je suis autiste, donc je fais les choses bien. Je ne suis donc pas la plus ignare en la matière, pas la plus éduquée non plus.
 
 Contrairement à ce que les réacs peuvent bien pérorer, la parole des enfants n'est pas sacralisée. Les enfants ne sont pas plus écoutés aujourd'hui qu'hier. Comme nous, autistes, ils s'expriment, mais ils ne sont ni entendus, ni rééllement compris, de par l'ignorance et l'ego trop délicat du récepteur adulte.
 
