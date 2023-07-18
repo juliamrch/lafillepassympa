@@ -9,7 +9,7 @@ theme = ["anatole"]
 
 [params]
 title = "La Fille Pas Sympa"
-author = "Julia March"
+author = "La Fille Pas Sympa"
 description = "Le quotidien d'une autiste dans la jungle sociale."
 profilePicture = "images/cat.png"
 displayMode = "dark"
