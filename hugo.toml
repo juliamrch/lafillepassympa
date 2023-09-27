@@ -142,7 +142,7 @@ localizedDates = false
     disable = false
 
 [params.umami]
-serverURL = "https://umami.cleverapps.io/"
-id = "63c258d5-341d-4a53-8d32-325da9d1e76e"
-trackerScriptName = "script.js"
+#serverURL = "https://umami.cleverapps.io/"
+#id = "63c258d5-341d-4a53-8d32-325da9d1e76e"
+#trackerScriptName = "script.js"
 
