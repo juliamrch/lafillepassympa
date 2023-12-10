@@ -72,7 +72,7 @@ Les hommes stalkent principalement des femmes, tandis que les femmes stalkent le
 
 ### Les antécédents
 
-Parmi les stalkeuses étudiées, certaines ont un casier judiciaire lié à du harcèlement et à des comportements obsesionnels. Quand j'ai pu étudier le comportement de mes stalkeuses, j'y ai trouvé le même phénomène récurrent : un comportement obsesionnel ciblant une même personne sur une durée assez longue. La cible change ensuite, quand on met fin à leurs agissements ou qu'elles trouvent une cible plus stimulante.
+Parmi les stalkeuses étudiées, certaines ont un casier judiciaire lié à du harcèlement et à des comportements obsessionnels. Quand j'ai pu étudier le comportement de mes stalkeuses, j'y ai trouvé le même phénomène récurrent : un comportement obsesionnel ciblant une même personne sur une durée assez longue. La cible change ensuite, quand on met fin à leurs agissements ou qu'elles trouvent une cible plus stimulante.
 
 Ainsi, ce comportement était bien établi et je n'étais pas la seule à en faire les frais. Petite déception de ne pas être ✨spéciale✨. Je souhaite néanmoins adresser mes plus sincères condoléances aux collègues de travail actuels de Dalia.
 
