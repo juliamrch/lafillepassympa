@@ -80,7 +80,7 @@ Ainsi, ce comportement était bien établi et je n'étais pas la seule à en fai
 
 Toutes les stalkeuses ne vont pas établir une communication directe avec leur cible, mais les chercheurs ont compté dans leurs statistiques **toute interférence avec la vie de la cible**.
 
-Cette notion d'interférence a confirmé certaines de mes intuitions sur les relations sociales et les raisons qui me poussent à en éviter certaines. Quelqu'un qui veut intérférer dans votre vie n'a pas besoin d'entrer en contact directement avec vous, et c'est excatement ce que font la plupart des femmes, qui optent pour des méthodes de nuisances plus subtiles que la confrontation directe. Dans 20% des cas, les stalkeuses ont des cibles secondaires faisant partie de l'entourage de la cible : des amis, des connaissances, des collègues ou des ex.
+Cette notion d'interférence a confirmé certaines de mes intuitions sur les relations sociales et les raisons qui me poussent à en éviter certaines. Quelqu'un qui veut interférer dans votre vie n'a pas besoin d'entrer en contact directement avec vous, et c'est excatement ce que font la plupart des femmes, qui optent pour des méthodes de nuisances plus subtiles que la confrontation directe. Dans 20% des cas, les stalkeuses ont des cibles secondaires faisant partie de l'entourage de la cible : des amis, des connaissances, des collègues ou des ex.
 
 L'intention de nuire à la personne dans ces actions a été considérée par les chercheurs comme faisant partie des "violences" infligées à la cible, actions qui peuvent aller jusqu'à la dégradation de biens, vols, et même kidnapping.
 
