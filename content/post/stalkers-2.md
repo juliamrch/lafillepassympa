@@ -24,7 +24,7 @@ Le déroulement suit presque toujours le même modèle, que j'aie 12 ans ou 35 a
 
 Dans [mon livre](/mon-livre), je parle de Dalia. C'est son vrai prénom. Je n'ai jamais cherché à protéger certaines personnes apparaissant dans mon livre, car cela s'appelle les conséquences. Dalia était une camarade de classe au Lycée Français en 2000, qui a fait une fixette sur moi dès mon entrée en sixième dans cet établissement. Je n'ai jamais compris l'origine de son obsession, à part peut-être que Dalia s'était érigée en gardienne de son environnement prout-prout (riche, country club, poney et cours de tennis) et que je venais faire tâche dans celui-ci.
 
-Je raconte comment je deviens amie avec son petit frère, qui à son tour me raconte les heures qu'elle passe à parler de moi avec ses copines. C'est là que j'appris qu'elle était amoureuse d'un garçon depuis longtemps, garçon à côté de qui on m'a assise et qui passait son temps à me faire rire, car c'était un gros débile. Le nom de famille de Dalia était malheureusement trop éloigné dans l'alphabet pour qu'elle se retrouve un jour assise à côte de ce garçon en cours.
+Je raconte comment je deviens amie avec son petit frère, qui à son tour me raconte les heures qu'elle passe à parler de moi avec ses copines. C'est là que j'appris qu'elle était amoureuse d'un garçon depuis longtemps, garçon à côté de qui on m'a assise et qui passait son temps à me faire rire, car c'était un gros débile. Le nom de famille de Dalia était malheureusement trop éloigné dans l'alphabet pour qu'elle se retrouve un jour assise en cours à côté de ce garçon.
 
 ### À l'âge adulte
 
