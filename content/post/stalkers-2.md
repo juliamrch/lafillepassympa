@@ -57,7 +57,7 @@ Certains chiffres sont vieux, mais on y découvre que les femmes stalkent, et be
 
 ### Les cibles
 
-Comme dans les études plus généralistes, un classement est effectué[^2], cette fois pour catégoriser les cibles des stalkeuses, en fonction de leur relation à ces dernières :
+Comme dans les études plus généralistes, un classement est effectué, cette fois pour catégoriser les cibles des stalkeuses, en fonction de leur relation à ces dernières :
 
 - Intime (_Intimate_)
 - Connaissance (_Acquaintance_)
