@@ -133,7 +133,7 @@ Ces petites victoires liées à mes lubies du moment froissent des personnes qui
 
 Tout cela, ce sont des signes extérieurs de réussite superficiels. Si demain je finis sous un pont, soyez sûrs que je trouverai toujours le moyen de rendre ça classe et de continuer à faire rager sous les chaumières. Le véritable enjeu c'est que, **ce que je décide, je le réalise**. Mais alors, comment je fais ?
 
-### Le secret de la réussite (ou ce qui est perçu comme telle )
+### Le secret de la réussite (ou ce qui est perçu comme telle)
 
 Peu importe que je mette en avant dans mes écrits l'importance de l'entraide et des systèmes de solidarité qui m'ont personnellement aidée à dépasser aussi bien ma condition sociale que les entraves disposées sur mon chemin. Ces personnes en font l'impasse.
 
