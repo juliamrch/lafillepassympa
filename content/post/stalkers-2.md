@@ -18,11 +18,11 @@ S'exprimer publiquement, sur n'importe quel sujet, est toujours un exercice pér
 
 ## Le schéma
 
-Ce qui pousse des femmes à me stalker suit pratiquement toujours le même modèle, que j'aie 12 ans ou 35 ans. J'ai toujours eu du mal à les repérer. Dans l'idée, le fait d'être stalkée m'en touche une sans faire bouger l'autre. Qu'est-ce que j'en ai à faire, moi, d'être observée par une illustre inconnue ? Mais j'ai assez subi de harcèlement au collège en tant qu'élève pour savoir qu'elles ne se contentent pas de rager en silence.
+Le déroulement suit presque toujours le même modèle, que j'aie 12 ans ou 35 ans. J'ai toujours eu du mal à les repérer. Dans l'idée, le fait d'être stalkée m'en touche une sans faire bouger l'autre. Qu'est-ce que j'en ai à faire, moi, d'être observée par une illustre inconnue ? Mais j'ai assez subi de harcèlement au collège, puis à l'âge adulte, pour savoir qu'elles ne se contentent pas de rager en silence.
 
 ### Dalia
 
-Dans mon livre, je parle de Dalia. C'est son vrai prénom. Je n'ai jamais cherché à protéger certaines personnes apparaissant dans mon livre, car cela s'appelle les conséquences. Dalia était une camarade du Lycée Français en 2000, qui a fait une fixette sur moi dès mon entrée en sixième dans cet établissement. Je n'ai jamais compris l'origine de son obsession, à part peut-être que Dalia s'était érigée en gardienne de son environnement prout-prout (riche, country club, poney et cours de tennis) et que je venais faire tâche dans celui-ci.
+Dans [mon livre](/mon-livre), je parle de Dalia. C'est son vrai prénom. Je n'ai jamais cherché à protéger certaines personnes apparaissant dans mon livre, car cela s'appelle les conséquences. Dalia était une camarade de classe au Lycée Français en 2000, qui a fait une fixette sur moi dès mon entrée en sixième dans cet établissement. Je n'ai jamais compris l'origine de son obsession, à part peut-être que Dalia s'était érigée en gardienne de son environnement prout-prout (riche, country club, poney et cours de tennis) et que je venais faire tâche dans celui-ci.
 
 Je raconte comment je deviens amie avec son petit frère, qui à son tout me raconte les heures qu'elle passe à parler de moi avec ses copines. C'est là que j'appris qu'elle était amoureuse d'un garçon depuis longtemps, garçon à côté de qui on m'a assise et qui passait son temps à me faire rire, car c'était un gros débile. Le nom de famille de Dalia était malheureusement trop éloignée dans l'alphabet pour qu'elle se retrouve un jour assise à côte de ce garçon en cours.
 
@@ -125,13 +125,13 @@ Depuis que j'ai eu ce foutu diagnostic, je passe ma vie à me demander comment l
 
 Je suis femme autiste et je tiens un blog : j'ai toutes les caractéristiques de la looseuse par excellence. Sauf que, surprise, j'ai vite appris à utiliser mes intérêts spécifiques pour améliorer ma propre vie et, accessoirement, changer le monde (hashtag modestie).
 
-Les critères de réussite pour une autiste restent très bas : ne pas se suicider avant ses 20 ans, vivre en autonomie et garder un travail, c'est déjà la panacée. Mais en plus, j'ai eu le culot de m'accrocher à des études supérieures, de publier un bouquin autobiographique DANS MA VINGTAINE et de m'insérer dans l'industrie technologique sans aucun diplôme formel en la matière, juste par la force de mon énorme cerveau. On peut de le dire : je vous fais la nique.
+Les critères de réussite pour une autiste restent très bas : ne pas se suicider avant ses 20 ans, vivre en autonomie et garder un travail, c'est déjà la panacée. Mais en plus, j'ai eu le culot de m'accrocher à des études supérieures, de publier un bouquin autobiographique DANS MA VINGTAINE et de m'insérer dans l'industrie technologique sans aucun diplôme formel en la matière, juste par la force de mon énorme cerveau. On peut se le dire : je vous fais la nique.
 
-Ces petites victoires liées à mes lubies du moment froissent des personnes qui ont fait du statut de victime leur personnalité, statut par lequel elles parviennent à manipuler leur entourage virtuel et IRL en faisant appel à la pitié et aux manifestations de soutien superficielles sans intérêt. C'est donc sans surprise que que ces personnes vont chercher à nier ma condition, d'autiste, ethnique, ou ce qui les obssède à ce moment.
+Ces petites victoires liées à mes lubies du moment froissent des personnes qui ont fait du statut de victime leur personnalité, statut par lequel elles parviennent à manipuler leur entourage virtuel et IRL en faisant appel à la pitié et aux manifestations de soutien superficielles sans intérêt. C'est donc sans surprise que que ces personnes vont chercher à nier ma condition, d'autiste, ethnique, ou ce qui les obssède à ce moment-là. Ça ne colle pas à la rhétorique, c'est tout.
 
-Tout cela, ce sont des signes extérieurs de réussite superficiels. Le véritable enjeu c'est que, **ce que je décide, je le réalise**. Mais alors, comment je fais ?
+Tout cela, ce sont des signes extérieurs de réussite superficiels. Si demain je finis sous un pont, soigez sûrs que je trouverai toujours le moyen de rendre ça classe et de continuer à faire rager sous les chaumières. Le véritable enjeu c'est que, **ce que je décide, je le réalise**. Mais alors, comment je fais ?
 
-### Le secret de la réussite
+### Le secret de la réussite (ou ce qui est perçu comme telle )
 
 Peu importe que je mette en avant dans mes écrits l'importance de l'entraide et des système de solidarité qui m'ont personnellement aidée à dépasser aussi bien ma condition sociale que les entraves disposées sur mon chemin. Ces personnes en font l'impasse.
 
