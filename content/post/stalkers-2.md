@@ -28,7 +28,7 @@ Je raconte comment je deviens amie avec son petit frère, qui à son tour me rac
 
 ### À l'âge adulte
 
-Aujourd'hui, je suis une femme à l'âge vénérable de 35 ans, et pourtant, peu de choses ont changé. Étant en couple avec une femme, je suis à présent épargnée de la rivalité hétérosexuelle galopante qui ronge les cerveaux de femmes pourtant brillantes dans d'autres domaines. Ce qui est stupide, car je change d'avis comme je change de jeans. Mais laissons-les baigner dans cette sérénité illusoire et essentialiste.
+Aujourd'hui, je suis une femme d'un l'âge vénérable (35 ans), et pourtant, peu de choses ont changé. Étant en couple avec une femme, je suis à présent épargnée de la rivalité hétérosexuelle galopante qui ronge les cerveaux de femmes pourtant brillantes dans d'autres domaines. Ce qui est stupide, car je change d'avis comme je change de jeans. Mais laissons-les baigner dans cette sérénité illusoire et essentialiste.
 
 Il existe d'autres enjeux que les pauvres types qui se retouvent à la croisée des feux entre les femmes : la carrière, la respectabilité et la réputation. Trois enjeux avec lesquels, personnellement, et comme beaucoup d'autres autistes, je me torche. Les personnes que cela obsède devienennent des candidates idéales au poste de Stalker du Moment.
 
