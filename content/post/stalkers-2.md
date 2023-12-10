@@ -45,7 +45,9 @@ Cela ne vous rappelle rien ?
 
 ## La psychiatrie et le stalking au féminin
 
-Plutôt que d'en rester là, cet été, je me suis intéressée au stalking de près, et en partie au stalking pratiqué par des femmes. Pourquoi cet été ? Je vous raconte l'histoire à la fin de ce post.
+Plutôt que d'en rester là, cet été, je me suis intéressée au stalking de près, et en partie au stalking pratiqué par des femmes. Pourquoi cet été ? Je vous raconte l'histoire à la fin de ce post[^1].
+
+[^1]: J'ai menti, ce post était déjà trop long, donc ce sera dans un prochain post. 
 
 Les publications scientifiques sur les femmes qui stalkent ne sont pas nombreuses, mais assez éclairantes.
 
@@ -62,7 +64,7 @@ Comme dans les études plus généralistes, un classement est effectué[^1], cet
 - Figure Publique (_Public Figure_)
 - Illustre Inconnu(e) (_Private Stranger_)
 
-[^1]: [The Female Stalker](/appendix/2011_TheFemaleStalker.pdf), 2011
+[^2]: [The Female Stalker](/appendix/2011_TheFemaleStalker.pdf), 2011
 
 Dans le schéma que je vous décris plus haut, j'oscille entre la catégorie Illustre Inconnue et Figure Publique, parce que c'est mon livre et le crédit qu'on apporte à ma parole par celui-ci qui peut être un déclencheur.
 
@@ -86,7 +88,7 @@ Dieu merci, on en est pas là. Même si me faire kidnapper par une follasse ne m
 
 La violence étudiée a été catégorisée comme étant affective ( principalement exercée dans un accès d'impulsivité ) ou prédatrice (instrumentalisée, préméditée ). En ce qui me concerne, c'est souvent la seconde qui est infligée, car nous savons depuis longtemps que je terrifie suffisamment mon prochain pour le dissuader d'user de la première. C'est également la seconde qui est privilégiée par les femmes stalkeuses. Elles sont moins propices à menacer leur cible directement, mais plutôt l'entourage de celle-ci.
 
-Voici la liste des actions[^2] menées par les femmes stalkeuses (j'ai marqué celles que j'ai moi-même vécues) : 
+Voici la liste des actions[^3] menées par les femmes stalkeuses (j'ai marqué celles que j'ai moi-même vécues) : 
 
 - des appels téléphoniques incessants ✔︎
 - des messages, des lettres, des cartes ✔︎
@@ -101,7 +103,7 @@ Voici la liste des actions[^2] menées par les femmes stalkeuses (j'ai marqué c
 - agression physique ✔︎
 - [stalking by proxy](https://www.cambridge.org/core/books/abs/stalkers-and-their-victims/stalking-by-proxy/619F2CF040A9EDBFF19BCBCC0D39DD65) ✔︎
 
-[^2]: [Understanding female-prepetraded stalking](/appendix/UnderstandingFemalePerpetratedStalkingManuscript.pdf), 2021
+[^3]: [Understanding female-prepetraded stalking](/appendix/UnderstandingFemalePerpetratedStalkingManuscript.pdf), 2021
 
 ## Portrait-robot de la stalkeuse
 
