@@ -143,6 +143,6 @@ C'est que je m'acharne à décrire dans chaque page de mon putain de bouquin. **
 
 ## Une cause perdue ?
 
-Ces femmes, les version adultes de Dalia, ne pourront jamais bénéficier d'un tel niveau d'entraide et de solidarité. Elles sont trop empêtrées dans des dynamiques complexes d'auto-sabotage. Elles sont tellement obsédées par leur réputation qu'elles se coupent des opportunités de tomber, parfois, sur quelqu'un qui va vous embarquer dans un truc et changer le cours de votre vie.
+Ces femmes, les versions adultes de Dalia, ne pourront jamais bénéficier d'un tel niveau d'entraide et de solidarité. Elles sont trop empêtrées dans des dynamiques complexes d'auto-sabotage. Elles sont tellement obsédées par leur réputation qu'elles se coupent des opportunités de tomber, parfois, sur quelqu'un qui va vous embarquer dans un truc et changer le cours de votre vie.
 
 J'aimerais être en mesure de les raisonner, de leur montrer les choses incroyables qu'elles pourraient réaliser en consacrant toute cette énergie à des buts plus nobles. Mais ce que j'ai lu à leur sujet dans les études psy est peu porteur d'espoir. Comme le disait Freinet : on ne fait pas boire un cheval qui n'a pas soif.
