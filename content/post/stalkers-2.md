@@ -107,7 +107,7 @@ Voici la liste des actions[^3] menées par les femmes stalkeuses (j'ai marqué c
 
 ## Portrait-robot de la stalkeuse
 
-Les femmes stalkeuses sont généralement hétérosexuelles, dans la trentaine, et seules (célibataires, séparée ou divorcée), présentant génralement des troubles psychiatriques tels que la dépression ou la personnalité borderline, et isolées socialement.
+Les femmes stalkeuses sont généralement hétérosexuelles, dans la trentaine, et seules (célibataires, séparées ou divorcées), présentant génralement des troubles psychiatriques tels que la dépression ou la personnalité borderline, et isolées socialement.
 
 Elles sont plus à même de stalker quelqu'un du même genre et sont classée parmi les stalkers [rancuniers](/post/stalkers-1/), ceux qui vont entamer une _vendetta_ contre des personnes qui semblent se porter mieux que lui, et le stalking fait partie de cette _vendetta_.
 
