@@ -86,7 +86,7 @@ L'intention de nuire à la personne dans ces actions a été considérée par le
 
 Dieu merci, on en est pas là. Même si me faire kidnapper par une follasse ne me dérangerait pas si elle est sexy. Mais je m'égare.
 
-La violence étudiée a été catégorisée comme étant affective ( principalement exercée dans un accès d'impulsivité ) ou prédatrice (instrumentalisée, préméditée ). En ce qui me concerne, c'est souvent la seconde qui est infligée, car nous savons depuis longtemps que je terrifie suffisamment mon prochain pour le dissuader d'user de la première. C'est également la seconde qui est privilégiée par les femmes stalkeuses. Elles sont moins propices à menacer leur cible directement, mais plutôt l'entourage de celle-ci.
+La violence étudiée a été catégorisée comme étant affective (principalement exercée dans un accès d'impulsivité) ou prédatrice (instrumentalisée, préméditée ). En ce qui me concerne, c'est souvent la seconde qui est infligée, car nous savons depuis longtemps que je terrifie suffisamment mon prochain pour le dissuader d'user de la première. C'est également la seconde qui est privilégiée par les femmes stalkeuses. Elles sont moins propices à menacer leur cible directement, mais plutôt l'entourage de celle-ci.
 
 Voici la liste des actions[^3] menées par les femmes stalkeuses (j'ai marqué celles que j'ai moi-même vécues) : 
 
