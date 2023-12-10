@@ -109,13 +109,13 @@ Voici la liste des actions[^3] menées par les femmes stalkeuses (j'ai marqué c
 
 Les femmes stalkeuses sont généralement hétérosexuelles, dans la trentaine, et seules (célibataires, séparées ou divorcées), présentant généralement des troubles psychiatriques tels que la dépression ou la personnalité borderline, et isolées socialement.
 
-Elles sont plus à même de stalker quelqu'un du même genre et sont classée parmi les stalkers [rancuniers](/post/stalkers-1/), ceux qui vont entamer une _vendetta_ contre des personnes qui semblent se porter mieux que lui, et le stalking fait partie de cette _vendetta_.
+Elles sont plus à même de stalker quelqu'un du même genre et sont classées parmi les stalkers [rancuniers](/post/stalkers-1/), ceux qui vont entamer une _vendetta_ contre des personnes qui semblent se porter mieux qu'elles, et le stalking fait partie de cette _vendetta_.
 
 ## Le lien avec le harcèlement
 
 Les chercheurs ont trouvé un lien entre le harcèlement et le stalking, celui-ci étant la première étape du harcèlement pour isoler la victime.
 
-Je suis malheureusement bien rôdée au harcèlement, comme 100% des autistes de ce monde. On se demande toujours pourquoi, d'un coup, un tel degrès de violence nous tombe sur la tronche, et pourquoi des gens auparavant aimables avec nous se liguent pour nous pourrir la vie.
+Je suis malheureusement bien rôdée au harcèlement, comme 100% des autistes de ce monde. On se demande toujours pourquoi, d'un coup, un tel degré de violence nous tombe sur la tronche, et pourquoi des gens auparavant aimables avec nous se liguent pour nous pourrir la vie.
 
 J'en ai discuté avec la psychiatre à l'origine de mon diagnostic d'autisme, que je vois toujours de temps en temps. Alors que je vivais exactement cette situation que je vous décris, elle m'a dit qu'il y avait probablement eu une entreprise de décrédibilisation à mon encontre, que je n'avais pas perçue.
 
@@ -129,9 +129,9 @@ Je suis femme autiste et je tiens un blog : j'ai toutes les caractéristiques de
 
 Les critères de réussite pour une autiste restent très bas : ne pas se suicider avant ses 20 ans, vivre en autonomie et garder un travail, c'est déjà la panacée. Mais en plus, j'ai eu le culot de m'accrocher à des études supérieures, de publier un bouquin autobiographique DANS MA VINGTAINE et de m'insérer dans l'industrie technologique sans aucun diplôme formel en la matière, juste par la force de mon énorme cerveau. On peut se le dire : je vous fais la nique.
 
-Ces petites victoires liées à mes lubies du moment froissent des personnes qui ont fait du statut de victime leur personnalité, statut par lequel elles parviennent à manipuler leur entourage virtuel et IRL en faisant appel à la pitié et aux manifestations de soutien superficielles sans intérêt. C'est donc sans surprise que que ces personnes vont chercher à nier ma condition, d'autiste, ethnique, ou ce qui les obssède à ce moment-là. Ça ne colle pas à la rhétorique, c'est tout.
+Ces petites victoires liées à mes lubies du moment froissent des personnes qui ont fait du statut de victime leur personnalité, statut par lequel elles parviennent à manipuler leur entourage virtuel et IRL en faisant appel à la pitié et aux manifestations de soutien superficielles sans intérêt. C'est donc sans surprise que ces personnes vont chercher à nier ma condition d'autiste, ethnique, ou ce qui les obssède à ce moment-là. Ça ne colle pas à la rhétorique, c'est tout.
 
-Tout cela, ce sont des signes extérieurs de réussite superficiels. Si demain je finis sous un pont, soigez sûrs que je trouverai toujours le moyen de rendre ça classe et de continuer à faire rager sous les chaumières. Le véritable enjeu c'est que, **ce que je décide, je le réalise**. Mais alors, comment je fais ?
+Tout cela, ce sont des signes extérieurs de réussite superficiels. Si demain je finis sous un pont, soyez sûrs que je trouverai toujours le moyen de rendre ça classe et de continuer à faire rager sous les chaumières. Le véritable enjeu c'est que, **ce que je décide, je le réalise**. Mais alors, comment je fais ?
 
 ### Le secret de la réussite (ou ce qui est perçu comme telle )
 
