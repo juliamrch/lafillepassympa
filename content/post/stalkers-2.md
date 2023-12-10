@@ -135,7 +135,7 @@ Tout cela, ce sont des signes extérieurs de réussite superficiels. Si demain j
 
 ### Le secret de la réussite (ou ce qui est perçu comme telle )
 
-Peu importe que je mette en avant dans mes écrits l'importance de l'entraide et des système de solidarité qui m'ont personnellement aidée à dépasser aussi bien ma condition sociale que les entraves disposées sur mon chemin. Ces personnes en font l'impasse.
+Peu importe que je mette en avant dans mes écrits l'importance de l'entraide et des systèmes de solidarité qui m'ont personnellement aidée à dépasser aussi bien ma condition sociale que les entraves disposées sur mon chemin. Ces personnes en font l'impasse.
 
 Des gens ont levé ces entraves et m'ont débrouissaillé le chemin pour que je puisse exploiter mon potentiel, d'autres m'ont protégée contre des gens malveillants, d'autres m'ont donné les moyens de réaliser ce que j'avais en tête, et d'autres m'ont suivi dans mes délires jusqu'au bout du monde et m'apportant leur soutien inconditionnel (big up à mon partenaire du hackathon EthGlobal Istanbul, par ailleurs).
 
