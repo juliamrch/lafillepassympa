@@ -1,5 +1,5 @@
 ---
-title: "Histoires de mes stalkeuses"
+title: "Portrait de mes stalkeuses"
 date: 2023-12-09T13:13:06+01:00
 Description: "Le stalking au féminin"
 categories: 
@@ -37,7 +37,7 @@ En général, voici comment les faits se déroulent :
 1. La nana me repère, souvent sur le réseau social X point com (formerly Twitter), et me déteste instantanément
 2. Elle va parler en message privé à des gens qu'elle a repéré parmi mes relations, et invente des rumeurs
 3. Elle viendra rarement me confronter directement, elle passera son temps à me dénigrer discrètement, dans le but de m'isoler, car c'est ainsi que fonctionne le monde neurotypique
-4. Elle parle à la mauvaise personne, qui porte à ma connassance ce phénomène de détraquée
+4. Elle parle à la mauvaise personne, qui porte à ma connaissance ce phénomène de détraquée
 
 Et bim, c'est ainsi que je découvre tout, perplexe. Exactement comme avec Dalia. Parfois, je découvre le contenu des messages envoyés, ou de tweets privés écrits à mon encontre, sur plusieurs mois et de façon obsessionnelle. Mêlés à leurs propos sur leur situation personnelle, sur leurs insécurités, il est assez simple d'y déceler toute la frustation et la rage qu'elle éprouve face à... mon existence ? Elles sont spectaculairement geignardes et pessimistes sur leur propre vie. Leur vocation ? Victimes professionnelles. D'après elles, je devrais éprouver les mêmes difficultés qu'elles ( réélles ou inventées dans leur esprit par leur instinct d'auto-sabotage ), et si ce n'est pas le cas, j'ai forcément triché quelque part.
 
