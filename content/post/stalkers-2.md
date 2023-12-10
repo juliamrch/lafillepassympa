@@ -53,7 +53,7 @@ Les publications scientifiques sur les femmes qui stalkent ne sont pas nombreuse
 
 ### La prévalence
 
-Certains chiffres sont vieux, mais on y découvre que les femmes stalkent, et beaucoup. En 2009, la National Crime Victimization Survey [^1] rapportait que 24% des femmes et 48% des hommes déclarant avoir été stalkés l'avaient été par des femmes. Les trois études que j'ai lues cherchaient à déterminer le schéma de comportement des femmes stalkeuses, dans un but de prévention et de traitement de ce phénomène.
+Certains chiffres sont vieux, mais on y découvre que les femmes stalkent, et beaucoup. En 2009, la National Crime Victimization Survey [^2] rapportait que 24% des femmes et 48% des hommes déclarant avoir été stalkés l'avaient été par des femmes. Les trois études que j'ai lues cherchaient à déterminer le schéma de comportement des femmes stalkeuses, dans un but de prévention et de traitement de ce phénomène.
 
 ### Les cibles
 
