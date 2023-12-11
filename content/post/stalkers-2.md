@@ -28,7 +28,7 @@ Je raconte comment je deviens amie avec son petit frère, qui à son tour me rac
 
 ### À l'âge adulte
 
-Aujourd'hui, je suis une femme d'un l'âge vénérable (35 ans), et pourtant, peu de choses ont changé. Étant en couple avec une femme, je suis à présent épargnée de la rivalité hétérosexuelle galopante qui ronge les cerveaux de femmes pourtant brillantes dans d'autres domaines. Ce qui est stupide, car je change d'avis comme je change de jeans. Mais laissons-les baigner dans cette sérénité illusoire et essentialiste.
+Aujourd'hui, je suis une femme d'un âge vénérable (35 ans), et pourtant, peu de choses ont changé. Étant en couple avec une femme, je suis à présent épargnée de la rivalité hétérosexuelle galopante qui ronge les cerveaux de femmes pourtant brillantes dans d'autres domaines. Ce qui est stupide, car je change d'avis comme je change de jeans. Mais laissons-les baigner dans cette sérénité illusoire et essentialiste.
 
 Il existe d'autres enjeux que les pauvres types qui se retouvent à la croisée des feux entre les femmes : la carrière, la respectabilité et la réputation. Trois enjeux avec lesquels, personnellement, et comme beaucoup d'autres autistes, je me torche. Les personnes que cela obsède devienennent des candidates idéales au poste de Stalker du Moment.
 
@@ -86,7 +86,7 @@ L'intention de nuire à la personne dans ces actions a été considérée par le
 
 Dieu merci, on en est pas là. Même si me faire kidnapper par une follasse ne me dérangerait pas si elle est sexy. Mais je m'égare.
 
-La violence étudiée a été catégorisée comme étant affective (principalement exercée dans un accès d'impulsivité) ou prédatrice (instrumentalisée, préméditée ). En ce qui me concerne, c'est souvent la seconde qui est infligée, car nous savons depuis longtemps que je terrifie suffisamment mon prochain pour le dissuader d'user de la première. C'est également la seconde qui est privilégiée par les femmes stalkeuses. Elles sont moins propices à menacer leur cible directement, mais plutôt l'entourage de celle-ci.
+La violence étudiée a été catégorisée comme étant affective (principalement exercée dans un accès d'impulsivité) ou prédatrice (instrumentalisée, préméditée). En ce qui me concerne, c'est souvent la seconde qui est infligée, car nous savons depuis longtemps que je terrifie suffisamment mon prochain pour le dissuader d'user de la première. C'est également la seconde qui est privilégiée par les femmes stalkeuses. Elles sont moins propices à menacer leur cible directement, mais plutôt l'entourage de celle-ci.
 
 Voici la liste des actions[^3] menées par les femmes stalkeuses (j'ai marqué celles que j'ai moi-même vécues) : 
 
@@ -129,7 +129,7 @@ Je suis femme autiste et je tiens un blog : j'ai toutes les caractéristiques de
 
 Les critères de réussite pour une autiste restent très bas : ne pas se suicider avant ses 20 ans, vivre en autonomie et garder un travail, c'est déjà la panacée. Mais en plus, j'ai eu le culot de m'accrocher à des études supérieures, de publier un bouquin autobiographique DANS MA VINGTAINE et de m'insérer dans l'industrie technologique sans aucun diplôme formel en la matière, juste par la force de mon énorme cerveau. On peut se le dire : je vous fais la nique.
 
-Ces petites victoires liées à mes lubies du moment froissent des personnes qui ont fait du statut de victime leur personnalité, statut par lequel elles parviennent à manipuler leur entourage virtuel et IRL en faisant appel à la pitié et aux manifestations de soutien superficielles sans intérêt. C'est donc sans surprise que ces personnes vont chercher à nier ma condition d'autiste, ethnique, ou ce qui les obssède à ce moment-là. Ça ne colle pas à la rhétorique, c'est tout.
+Ces petites victoires liées à mes lubies du moment froissent des personnes qui ont fait du statut de victime leur personnalité, statut par lequel elles parviennent à manipuler leur entourage virtuel et IRL en faisant appel à la pitié et aux manifestations de soutien superficielles sans intérêt. C'est donc sans surprise que ces personnes vont chercher à nier ma condition d'autiste, ethnique, ou ce qui les obsède à ce moment-là. Ça ne colle pas à la rhétorique, c'est tout.
 
 Tout cela, ce sont des signes extérieurs de réussite superficiels. Si demain je finis sous un pont, soyez sûrs que je trouverai toujours le moyen de rendre ça classe et de continuer à faire rager sous les chaumières. Le véritable enjeu c'est que, **ce que je décide, je le réalise**. Mais alors, comment je fais ?
 
@@ -137,7 +137,7 @@ Tout cela, ce sont des signes extérieurs de réussite superficiels. Si demain j
 
 Peu importe que je mette en avant dans mes écrits l'importance de l'entraide et des systèmes de solidarité qui m'ont personnellement aidée à dépasser aussi bien ma condition sociale que les entraves disposées sur mon chemin. Ces personnes en font l'impasse.
 
-Des gens ont levé ces entraves et m'ont débrouissaillé le chemin pour que je puisse exploiter mon potentiel, d'autres m'ont protégée contre des gens malveillants, d'autres m'ont donné les moyens de réaliser ce que j'avais en tête, et d'autres m'ont suivi dans mes délires jusqu'au bout du monde et m'apportant leur soutien inconditionnel (big up à mon partenaire du hackathon EthGlobal Istanbul, par ailleurs).
+Des gens ont levé ces entraves et m'ont débroussaillé le chemin pour que je puisse exploiter mon potentiel ; d'autres m'ont protégée contre des gens malveillants ; d'autres m'ont donné les moyens de réaliser ce que j'avais en tête ; et d'autres m'ont suivi dans mes délires jusqu'au bout du monde en m'apportant leur soutien inconditionnel (big up à mon partenaire du hackathon EthGlobal Istanbul, par ailleurs).
 
 C'est que je m'acharne à décrire dans chaque page de mon putain de bouquin. **J'ai consacré ma vie à la construction d'alliances souterraines entre rebuts de la société, en clamant haut et fort que [je vous emmerde](/post/2015/02/je-suis-autiste-et-je-temmerde/)**, en vous considérant comme indésirables si votre comportement révélait un peu trop les failles narcissiques que vous essayez de combler sur notre dos, et en vous écartant de ma route pour aller trouver mes semblables.
 
