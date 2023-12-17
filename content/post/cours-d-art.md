@@ -21,7 +21,7 @@ Récit d'un drame intime (_again_).
 
 Comme tous les enfants, j'aimais dessiner. L'un de mes oncles étant peintre amateur, il m'a initiée très tôt au dessin et à la peinture, s'évertuant à me transmettre de bonnes habitudes (tandis que ma tante lui criait "Mais laisse la gamine tranquille !" depuis la cuisine en essuyant la vaisselle). Mais j'étais bonne élève et j'aimais apprendre à faire les choses dans les règles de l'art.
 
-Mes parents ont eu la bonne idée de m'inscrire à des cours d'initiation à l'art dispensés dans l'atelier d'une dame vivant dans une grande maison entourée d'arbres en Normandie, auxquels ma mère m'emmenait les mercredis après-midi. Les cours mêlaient des activités autour de la musique classique et le dessin. Si je n'en garde pas un souvenir impérissable, mais l'ambiance était sereine et plaisante.
+Mes parents ont eu la bonne idée de m'inscrire à des cours d'initiation à l'art dispensés dans l'atelier d'une dame vivant dans une grande maison entourée d'arbres en Normandie, auxquels ma mère m'emmenait les mercredis après-midi. Les cours mêlaient des activités autour de la musique classique et le dessin. Si je n'en garde pas un souvenir impérissable, l'ambiance était sereine et plaisante.
 
 Ensuite, nous avons déménagé (comme d'hab) et c'en était fini des cours d'art. Exactement comme les cours d'initiation au piano avant notre déménagement précédent. Parfois, je me dis que si je suis touche-à-tout dans divers domaines sans jamais exceller dans aucun d'entre eux, c'est peut-être pour ça : les activités que j'aimais n'étaient pas forcément disponibles dans notre nouveau lieu d'habitation. Je ne me décourageais pas, je m'initiais à autre chose, et hop, redéménagement.
 
