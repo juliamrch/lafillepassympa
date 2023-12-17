@@ -37,7 +37,7 @@ Je voulais simplement apprendre de nouvelles techniques, faire de nouvelles acti
 
 J'ai fini par me résigner à apprendre ce qui m'intéressait seule, le plus loin possible des autres enfants. J'ai très vite progressé et mon talent de dessinatrice a contribué ensuite à m’apporter une petite _street cred_ au collège. On fait ce qu'on peut avec ce qu'on a, n'est-ce pas.
 
-Par la suite, je suis allée au Lycée Français et pas avoir des cours d'Art Plastique qui me ravirent. Les jours où nous avions Art Plastique, je les attendais avec impatience. Notre professeur était un vrai passionné et un excellent pédagogue. Même si par ma maladresse je foutais de la gouache absolument partout, je m'éclatais. Mais un détail vint progressivement éteindre mon enthousiasme : les autres élèves.
+Par la suite, je suis allée au Lycée Français, avec des cours d'Art Plastique qui me ravirent. Les jours où nous avions Art Plastique, je les attendais avec impatience. Notre professeur était un vrai passionné et un excellent pédagogue. Même si par ma maladresse je foutais de la gouache absolument partout, je m'éclatais. Mais un détail vint progressivement éteindre mon enthousiasme : les autres élèves.
 
 Je ne possédais pas le même matériel haut de gamme que mes camarades. Au début, je n'y avais même pas prêté attention. C'est un groupe de petites pétasses qui, systématiquement, année scolaire après année scolaire, me le faisait remarquer. Ouvrir ma mallette sur les tables hautes devint une corvée. Mais la qualité du matériel et les ressources ne font pas tout : les Russes ont réussi à produire des ballets intemporels alors que leurs danseurs n'avaient même plus de murs assez solides pour y fixer une barre.
 
