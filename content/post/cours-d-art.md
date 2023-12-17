@@ -25,7 +25,7 @@ Mes parents ont eu la bonne idée de m'inscrire à des cours d'initiation à l'a
 
 Ensuite, nous avons déménagé (comme d'hab) et c'en était fini des cours d'art. Exactement comme les cours d'initiation au piano avant notre déménagement précédent. Parfois, je me dis que si je suis touche-à-tout dans divers domaines sans jamais exceller dans aucun d'entre eux, c'est peut-être pour ça : les activités que j'aimais n'étaient pas forcément disponibles dans notre nouveau lieu d'habitation. Je ne me décourageais pas, je m'initiais à autre chose, et hop, redéménagement.
 
-Initiée, on peut dire que je ‘lai été des tas de fois, ça oui.
+Initiée, on peut dire que je l'ai été des tas de fois, ça oui.
 
 ## L'abandon volontaire
 
