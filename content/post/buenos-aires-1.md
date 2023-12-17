@@ -1,7 +1,7 @@
 ---
 title: "Journal porteño #1"
 date: 2023-02-22T13:43:53-03:00
-Description: "Journal de bord à Buenos Aires"
+Summary: "Journal de bord à Buenos Aires"
 categories: 
   - "voyage"
 tags: 

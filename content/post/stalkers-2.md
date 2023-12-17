@@ -1,7 +1,7 @@
 ---
 title: "Portrait de mes stalkeuses"
 date: 2023-12-09T13:13:06+01:00
-Description: "Le stalking au féminin"
+Summary: "Le stalking au féminin"
 categories: 
   - "élucubrations"
 tags: 

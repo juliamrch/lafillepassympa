@@ -1,7 +1,7 @@
 ---
 title: "Ode à la thune"
 date: 2023-02-09T00:10:54+01:00
-Description: "Parce que la vie d'autiste coûte un bras"
+Summary: "Parce que la vie d'autiste coûte un bras"
 Tags: [argent, indépendance]
 Categories: [élucubrations]
 DisableComments: true

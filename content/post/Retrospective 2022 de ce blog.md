@@ -1,6 +1,7 @@
 ---
 title: "Retrospective 2022 de ce blog"
 date: "2022-12-28"
+Summary: "Tout est dans le titre"
 categories: 
   - "elucubrations"
 tags: 
@@ -12,7 +13,7 @@ tags:
 
 Voici un post rapide pour inaugurer la nouvelle peau de ce blog. Pour cette dernière mise à jour, je ne me suis pas contentée de l'optimiser et de refaire le design : je l'ai carrément exporté sur une nouvelle techno.
 
-Je raconte sur [mon portfolio en construction](https://juliamarch.cleverapps.io/note/premiers-pas/) comment je passe de WordPress à Hugo pour continuer à polluer le _world wide web_ de mes nombreux problèmes psychologiques. J'avais d'ailleurs recommandé ce framework (le truc qui permet de générer un site facilement, quoi) à Yo pour son blog [Putain d'Autiste](https://putaindautiste.me), mais je ne m'étais pas lancée pour migrer mes sites, car je suis une ~~feignasse~~ personne extrêmement occupée, voyez-vous. 
+Je raconte sur [mon portfolio en construction](https://juliamarch.cleverapps.io/note/premiers-pas/) comment je passe de WordPress à Hugo pour continuer à polluer le _world wide web_ de mes nombreux problèmes psychologiques. J'avais d'ailleurs recommandé ce framework (le truc qui permet de générer un site facilement, quoi) à Yo pour son blog [Putain d'Autiste](https://putaindautiste.me), mais je ne m'étais pas lancée pour migrer mes sites, car je suis une ~~feignasse~~ personne extrêmement occupée, voyez-vous.
 
 Plus sérieusement, j'ai passé beaucoup d'heures à explorer différentes technologies et à apprivoiser de nouveaux concepts, mais surtout, à essayer d'être un peu plus carrée sur mes projets perso. Car c'est bien beau d'être sérieuse et efficace dans son domaine pro (ce qu'à mon grand damn, je ne peux m'empêcher d'être), si on ne peut même pas en profiter pour se faire plaisir en construisant des choses qui nous appartiennent.
 

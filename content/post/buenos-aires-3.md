@@ -1,7 +1,7 @@
 ---
 title: "Traité pété de la casse-couillerie genrée"
 date: 2023-03-03T13:12:58-03:00
-Description: "Journal porteño #3"
+Summary: "Journal porteño #3"
 categories: 
   - "élucubrations"
 tags: 

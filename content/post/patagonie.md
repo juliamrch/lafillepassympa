@@ -1,7 +1,7 @@
 ---
 title: "Journal porteño #2"
 date: 2023-02-28T22:10:44-03:00
-Description: "Entorse et autres drames"
+Summary: "Entorse et autres drames"
 categories: 
   - "voyage"
 tags: 
