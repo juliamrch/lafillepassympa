@@ -8,6 +8,8 @@ tags:
   - "education"
   - "inclusion"
   - "societe"
+aliases:
+- /les-profs-et-les-handicapes
 ---
 
 Régulièrement, depuis mes débuts sur Twitter, un débat sans fin anime soudain le réseau du démon, affrontant deux camps : les méchants profs validistes VS les handicapés. Bien entendu, ce débat ne mène jamais à aucune conclusion pertinente, s'essouffle tranquillement ou est remplacé par un drama plus croustillant.
