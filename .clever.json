@@ -1,0 +1,18 @@
+{
+  "apps": [
+    {
+      "app_id": "app_0f7a73e7-2c2c-41b4-b70a-0659d9be274b",
+      "org_id": "orga_6da271bb-0caf-42de-b85b-7b92db11c150",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_0f7a73e7-2c2c-41b4-b70a-0659d9be274b.git",
+      "name": "express-demo",
+      "alias": "express-demo"
+    },
+    {
+      "app_id": "app_24f77e96-01c8-4cb8-82ad-15b9151e8ebc",
+      "org_id": "user_bd316ba2-4e6a-4a87-967e-1f7ef4efb510",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_24f77e96-01c8-4cb8-82ad-15b9151e8ebc.git",
+      "name": "lfps",
+      "alias": "lfps"
+    }
+  ]
+}
