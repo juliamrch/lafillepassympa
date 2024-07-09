@@ -15,6 +15,7 @@ displayMode = "dark"
 #customCss = ["css/custom.css"]
 #customScss = ["scss/custom.scss"]
 
+
 hidesidebar = false
 
 [[params.socialIcons]]
@@ -144,4 +145,3 @@ localizedDates = false
 #serverURL = ""
 #id = "63c258d5-341d-4a53-8d32-325da9d1e76e"
 #trackerScriptName = "script.js"
-
