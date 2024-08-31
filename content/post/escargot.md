@@ -1,6 +1,6 @@
 ---
 title: "Complainte de l'escargot"
-date: 2024-08-31T16:42:54+01:00
+date: 2024-08-31T15:42:54+01:00
 Summary: "Pourquoi je suis devenue intraitable avec la gestion de mon propre temps."
 categories: 
   - "élucubrations"
