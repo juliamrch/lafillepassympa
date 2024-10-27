@@ -1,7 +1,6 @@
 ---
 title: "Mais c'est qui celle-là?"
 date: "2015-12-07"
-PublishDate: true
 ---
 
 Je suis une autiste de 27 ans.
