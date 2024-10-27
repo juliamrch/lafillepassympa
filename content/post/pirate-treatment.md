@@ -29,7 +29,7 @@ J'ai eu beau leur expliquer que je n'étais absolument pas charnellement ou roma
 
 Plus de dix ans plus tard, cette histoire m'est revenue à l'esprit en parcourant TikTok, application qui a complètement fini de griller ma cervelle. TikTok est un monde à part, pas tout à fait une dimension parallèle, mais pas loin, comme une sorte de fil d'Ariane reliant notre dimension à une autre, si je puis dire. Je peux littéralement sentir mes neurones éclater en série comme des boules de tapioca et mon QI chuter drastiquement dès que j'ouvre l'appli. Délicieux.
 
-## Les TikTok _girlies_ et leurs histoires
+## Les TikTok girlies et leurs petites histoires
 
 TikTok est rempli d'histoires de bonnes femmes, et j'adore les histoires de bonnes femmes. Quand j'étais petite, je m'allongeais parfois sous la table du salon de la voisine ou de femmes de mon entourage, lors de cafés entre copines, pour écouter les conversations des femmes de la congrégation religieuse ; sans un bruit, bercée par leurs voix et par leurs rires. Sur TikTok, je peux rester des minutes entières à écouter une nénette de vingt piges raconter son dernier date désatreux, ou sa dernière embrouille avec sa meilleure amie, pendant qu'elle fait sa skincare et se maquille. À force, l'algorithme a fini par me présenter des visages de très jeunes femmes qui essaient d'expliquer à leurs congénères comment se comporter avec les hommes. Et c'est là que cela devient drôle.
 
