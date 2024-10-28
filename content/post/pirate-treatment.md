@@ -71,6 +71,6 @@ Finalement, ce n'est peut-être pas une si mauvaise chose, la piraterie. Si les 
 
 ## Finalement
 
-Mon ami et voisin égyptien et moi n'avons jamais entamé une quelconque relation amoureuse ou de flirt, malgré les pressions de mes copines. Est-ce qu'il éprouvait des sentiments amoureux, ou avait-il été simplement éduqué à entretenir des rapports courtois avec les femmes ? Je ne me suis jamais souciée de cela. Nous nous sommes perdus de vue sans état d'âme, après un arrêt au port de Paris, passionnés par d'autres horizons, voguant vers la chasse au trésor, sur nos bateaux de pirates respectifs.
+Mon ami et voisin égyptien et moi n'avons jamais entamé une quelconque relation amoureuse ou de flirt, malgré les pressions de mes copines. Est-ce qu'il éprouvait des sentiments amoureux, ou avait-il été simplement éduqué à entretenir des rapports courtois avec les femmes ? Je ne me suis jamais souciée de cela. Nous nous sommes perdus de vue sans état d'âme, après un arrêt au port de Paris, passionnés par d'autres horizons, voguant vers la chasse au trésor, sur nos bateaux pirates respectifs.
 
 [^1]: J'écris ça alors que j'ai le mal de mer, lol.
