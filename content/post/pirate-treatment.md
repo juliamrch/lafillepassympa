@@ -25,7 +25,7 @@ C'est à ce moment que j'ai commencé à soupçonner que le niveau était très 
 
 ## L'homme potable = le Graal
 
-J'ai eu beau leur expliquer que je n'étais absolument pas charnellement ou romantiquement attirée par lui, que je n'étais pas intéressée par les relations de couple (le peu d'expérience que j'avais eues m'avait bien cassé les pieds), elles étaient catégoriques : à partir du moment où un homme se montre intéressé et qu'il est potable, c'était suffisant. Surtout s'il te traite "comme une princesse".
+J'ai eu beau leur expliquer que je n'étais absolument pas charnellement ou romantiquement attirée par lui, que je n'étais pas intéressée par les relations de couple (le peu d'expérience que j'avais eue m'avait bien cassé les pieds), elles étaient catégoriques : à partir du moment où un homme se montre intéressé et qu'il est potable, c'était suffisant. Surtout s'il te traite "comme une princesse".
 
 Plus de dix ans plus tard, cette histoire m'est revenue à l'esprit en parcourant TikTok, application qui a complètement fini de griller ma cervelle. TikTok est un monde à part, pas tout à fait une dimension parallèle, mais pas loin, comme une sorte de fil d'Ariane reliant notre dimension à une autre, si je puis dire. Je peux littéralement sentir mes neurones éclater en série comme des boules de tapioca et mon QI chuter drastiquement dès que j'ouvre l'appli. Délicieux.
 
