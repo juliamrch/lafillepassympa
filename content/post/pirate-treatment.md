@@ -42,7 +42,7 @@ Au début, je me suis dit qu'elles étaient bien parties dans leur vie affective
 - Prenne l'initiative de contacter et de voir la femme
 - Paie l'addition
 - L'écoute et accorde de l'importance à ses sentiments
-- Aie de petites attentions pour elle
+- Ait de petites attentions pour elle
 - Manifeste tous les signes extérieurs de la galanterie (tenir la porte, ouvrir la porte de la voiture, remplir son verre...)
 
 Du côté nord-américain, l'emphase est très mise sur l'apport matériel de la part des hommes. Cela se comprend aisément : un homme nord-américain qui voudrait un enfant biologique avec une femme doit prouver qu'il est solvable, car les grossesses et les accouchements coûtent une fortune aux US. La femme met son corps à disposition, et l'use dans le but de lui fournir une progéniture, et se retrouvera probablement pénalisée dans sa carrière en devenant mère, tandis que la paternité bénéficiera au statut social de son partenaire. Le critère de solvabilité, ainsi que la disposition à prendre en charge financièrement l'autre, prend ainsi tout son sens.
