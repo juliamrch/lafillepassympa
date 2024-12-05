@@ -12,6 +12,7 @@ author = "La Fille Pas Sympa"
 description = "Le quotidien d'une autiste dans la jungle sociale."
 profilePicture = "images/cat.png"
 displayMode = "dark"
+titleCaseStyle = "firstupper"
 #customCss = ["css/custom.css"]
 #customScss = ["scss/custom.scss"]
 
