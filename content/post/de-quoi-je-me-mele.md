@@ -74,7 +74,7 @@ Après quelques jours de repos suite à la fin de mon contrat, je débarque comm
 
 Dès que j'arrive, C. me dit qu'à présent elle se sent mieux, le gars va comprendre, ça va être mis enfin au clair.
 
-Moi, je ne suis pas stupide. Je m'assure d'aller voir le mec accompagnée. Par parce que j’aurais peur (honnêtement, dans l'ordre naturel des choses, je suis son _apex predator_), mais pour avoir un témoin de la scène. Car, de tout temps, on a le chic de m'accuser de tous les torts et de réinventer les faits pour se faire passer pour la victime.
+Moi, je ne suis pas stupide. Je m'assure d'aller voir le mec accompagnée. Pas parce que j’aurais peur (honnêtement, dans l'ordre naturel des choses, je suis son _apex predator_), mais pour avoir un témoin de la scène. Car, de tout temps, on a le chic de m'accuser de tous les torts et de réinventer les faits pour se faire passer pour la victime.
 
 J'y vais donc avec une amie, on se retrouve tous les trois, et j'ai à peine ouvert la bouche, qu'il se met à chialer. Décidément. Je n'ai même pas pu lui demander de rectifier le récit auprès des personnes à qui il avait raconté son crack (ouais, j'avais prévu de faire ça), j'ai dû lâcher l'affaire, car "C'est beaucoup trop dur ce que vous me dites, là". Ce à quoi j'ai simplement répondu "Si l'entendre est dur, imagine ce que cela fait de le vivre ET de devoir s'en souvenir".
 
