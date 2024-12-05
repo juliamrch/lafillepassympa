@@ -61,7 +61,7 @@ Mon mode opérationnel pour décider de si cela est mon affaire ou pas, est de c
 - dans quelle mesure vais-je personnellement subir les conséquences de la situation présente/des choix de cette personne
 - si on m'a explicitement demandé de l'aide
 - comment les gens qui dépendent de moi vont-ils en être affectés
-- si je prête à assumer les conséquences de mon intervention potentielle
+- si je suis prête à assumer les conséquences de mon intervention potentielle
 - combien cela va-t-il me coûter (énergie, finances, dignité, etc.)
 
 Dans le cas présent, si je n'acceptais pas d'aider C., je n'allais pas subir de conséquences à titre personnel. Mon contrat arrivait à sa fin. Qu'est-ce que j'en avais à foutre, moi, de leurs mecs qui dispensent des formations anti-sexistes, mais qui sont incapables de ne pas agresser une nana dès qu'ils ont un coup dans le pif ? Cependant, dans ce cas spécifique, **il est naïf de croire que les violences sexuelles se limitent à un cadre défini**. Le mec moche qui l'avait agressée, là, tu tapes dans une poubelle n'importe où, il y en a dix qui sortent en rampant.
