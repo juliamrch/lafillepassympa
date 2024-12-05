@@ -106,7 +106,7 @@ Paradoxalement, cet évènement a changé ma vie. J'ai renoncé à toute activit
 
 ## L'art de NE PAS se mêler de ce qui ne nous regarde pas
 
-Comme je le disais plus haut, parfois, on se retouve mêlés par défaut à une affaire parce qu'on est sur les lieux du crime. Si on me racontait toute cette histoire que je viens de vous raconter, aujourd'hui, je lèverai les yeux aux ciel.
+Comme je le disais plus haut, parfois, on se retouve mêlés par défaut à une affaire parce qu'on est sur les lieux du crime. Si on me racontait toute cette histoire que je viens de vous raconter, aujourd'hui, je lèverais les yeux aux ciel.
 
 **Parfois, les environnements dans lesquels nous évoluons, les gens que nous fréquentons, sont profondément dysfonctionnels, et on n'y peut pas grand chose**. On peut, en revanche déceler les signes avant-coureurs qu'il vaut mieux s'en éloigner pour mener une vie un peu plus paisible. Pour moi, ce sont plus ou moins ceux-ci :
 
