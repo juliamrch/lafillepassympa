@@ -16,7 +16,7 @@ Je ne l'avais jamais vue dans cet état. En larmes et visiblement désespérée,
 
 En acceptant de l'aider, je me suis "mêlée de ce qui ne me regardait pas" aux yeux de personnes que cela n'arrangeait décidément pas, mais j'allais aussi chambouler ma vie à tout jamais. Bien sûr à ce moment-là, je ne le savais pas encore.
 
-Cette histoire, que je n'ai jamais su raocnter convenablement, fêtera bientôt ses dix ans. Je me dis qu'il est peut-être temps de la raconter.
+Cette histoire, que je n'ai jamais su raconter convenablement, fêtera bientôt ses dix ans. Je me dis qu'il est peut-être temps de la raconter.
 
 ## Une histoire banale d'agression sexuelle
 
