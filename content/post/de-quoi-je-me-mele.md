@@ -82,7 +82,7 @@ Point positif, mon amie témoin de la scène m'a dit : "Je ne t'ai jamais vu aus
 
 ### Les conséquences
 
-Les conséquences furent rocambolesques. Un pote du vilain-comme-un-poux a exigé que C., le témoin et moi soyons dégagées des lieux, car on le persécutait (il avait bien sûr omis de dire ce qu'on lui reprochais). Donc l'histoire a dû être dévoilée au grand jour. Et vous connaissez la suite : C. a pris cher.
+Les conséquences furent rocambolesques. Un pote du vilain-comme-un-poux a exigé que C., le témoin et moi soyons dégagées des lieux, car on le persécutait (il avait bien sûr omis de dire ce qu'on lui reprochait). Donc l'histoire a dû être dévoilée au grand jour. Et vous connaissez la suite : C. a pris cher.
 
 ### La bourgeoisie persécutée
 
@@ -110,7 +110,7 @@ Comme je le disais plus haut, parfois, on se retouve mêlés par défaut à une 
 
 **Parfois, les environnements dans lesquels nous évoluons, les gens que nous fréquentons, sont profondément dysfonctionnels, et on n'y peut pas grand chose**. On peut, en revanche déceler les signes avant-coureurs qu'il vaut mieux s'en éloigner pour mener une vie un peu plus paisible. Pour moi, ce sont plus ou moins ceux-ci :
 
-- Au moindre conflit, on cherche les tords et non des solutions
+- Au moindre conflit, on cherche les torts et non des solutions
 - Les comportements antisociaux sont non seulement tolérés, mais justifiés
 - Des décisions structurantes sont prises exclusivement sur des bases affinitaires
 - On protège les potes, on fait en sorte qu'ils ne prennent surtout pas leurs responsabilités, quitte à pénaliser tout le reste de l'organisation
