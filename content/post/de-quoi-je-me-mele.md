@@ -52,7 +52,7 @@ Ce qui arrive à C. me concerne, parce qu'elle est mon amie, et ce qui arrive à
 
 ### "De quoi je me mêle"
 
-"De quoi je me mêle", c'est une phrase puissante à double tranchant. Elle peut être utilisée pour placer une limite saine face à une personne intrusive. Elle peut aussi être manipulée pour isoler la victime d'une situation violente.
+"De quoi je me mêle", c'est une phrase puissante à double tranchant. Elle peut être utilisée pour placer [une limite saine face à une personne intrusive](../2019/07/bas-les-pattes-les-limites-personnelles-des-personnes-autistes). Elle peut aussi être manipulée pour isoler la victime d'une situation violente.
 
 **Parfois, une situation qui ne nous concernait pas devient notre affaire, qu'on le veuille ou pas**. Et c'est à nous de décider de ce qu'on en fait. Que l'on choisisse de se détourner du problème n'en fait pas moins notre affaire. Cela ne fait que nous rendre plus lâches, plus irresponsables, plus pisse-froid, peut-être.
 
