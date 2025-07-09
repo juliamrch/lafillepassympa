@@ -53,4 +53,4 @@ Je suis exténuée, mais pas physiquement. Cette langue est infernale. La cultur
 
 Je vous en dirai plus, si je survis.
 
-[^1]: Les prénoms ont été modifiés afin de protéger l'identité des personnes apparaissant dans cet
+[^1]: Les prénoms ont été modifiés afin de protéger l'identité des dégénérés apparaissant dans ce poste.
