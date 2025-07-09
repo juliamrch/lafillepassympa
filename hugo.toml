@@ -37,7 +37,7 @@ url = "https://gitlab.com/juliamrch/lafillepassympa"
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:juliamarch.eth@ethereum.email"
+url = "mailto:julia@tuta.com"
 
 [[params.socialIcons]]
 icon = "fa fa-cog fa-spin"
