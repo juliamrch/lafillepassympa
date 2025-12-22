@@ -8,6 +8,7 @@
         {{- .Site.Params.author -}}
       {{ else }}
         {{- .Site.Params.author -}}{{ with .Title }}
+        <iframe src="https://embeds.beehiiv.com/258e7867-181f-49ab-8f1e-82a7471d2f99?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
           |
           {{ . }}
         {{ end }}
@@ -135,6 +136,7 @@
     <link rel="apple-touch-icon" sizes="180x180" href="{{ .Site.Params.favicon | relURL }}apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="{{ .Site.Params.favicon | relURL }}favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="{{ .Site.Params.favicon | relURL }}favicon-16x16.png" />
+    
   
     <link rel="canonical" href="{{ .Permalink }}" />
   
@@ -218,6 +220,7 @@
   
     <!-- Schema.org-->
     {{ partial "schema.html" . }}
+    
 <!-- K6 Frontend tests -->
 <script>
   (function () {
@@ -279,10 +282,5 @@
     g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
   })();
 </script>
-<!-- End Matomo Code -->
-
-<!-- Matomo Image Tracker-->
-<img referrerpolicy="no-referrer-when-downgrade" src="https://jgwgqmftuarwfgamhzpv-matomo.services.clever-cloud.com/matomo.php?idsite=3&amp;rec=1" style="border:0" alt="" />
-<!-- End Matomo -->
 
   </head>
