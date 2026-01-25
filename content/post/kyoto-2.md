@@ -38,7 +38,7 @@ J’ai dû apprendre à faire semblant d’être humaine au sein de non pas une,
 
 Mes chats et mon entourage en France m’attendent de pied ferme au printemps. J’avais promis de revenir à l’automne, mais, comme j’ai lâché mon bullshit job entre temps, je n’avais plus d’engagement à tenir envers qui que ce soit. Mes chats, eux, ont colonisé mon frère. Mon absence, ils ont l’air de s’en battre comme des couilles du Pape. Ingratitude féline, j’écris ton nom (oxymorique).
 
-À l’automne, au lieu de rentrer en France, je suis partie me balader en Chine. J’y ai fêté mon anniversaire, près de l’ancienne concession française, afin de rendre hommage à nos ancêtres (ils vous passent le bonjour), en compagnie de mon ami cryptobro américain de longue date m’a payé le dîner. J’ai travaillé depuis des coworking dans le quartier financier, entre deux visites.
+À l’automne, au lieu de rentrer en France, je suis partie me balader en Chine. J’y ai fêté mon anniversaire, près de l’ancienne concession française, afin de rendre hommage à nos ancêtres (ils vous passent le bonjour), en compagnie de mon ami cryptobro américain de longue date, qui m’a payé le dîner. J’ai travaillé depuis des coworking dans le quartier financier, entre deux visites.
 
 J’ai visité des îles poétiques à Hangzhou, où j’ai aussi rencontré une amie d’ami, qui enseigne à la fac. On s’est battues pour payer l’addition et j’ai gagné. 
 
